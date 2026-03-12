@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<title>VanshGames - Premium Gaming Platform</title>
+<title>MEOW - Premium Gaming Platform</title>
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&family=Rajdhani:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap');
 
@@ -439,7 +439,7 @@ body::before{content:'';position:fixed;top:0;left:0;right:0;bottom:0;background:
 <div class="toggle active" style="opacity:0.5;pointer-events:none"></div>
 </div>
 <div style="margin-top:20px;text-align:center">
-<div style="font-size:11px;color:var(--text-secondary)">VanshGames v3.0 Premium</div>
+<div style="font-size:11px;color:var(--text-secondary)">Games v3.0 Premium</div>
 </div>
 </div>
 </div>
@@ -460,7 +460,7 @@ body::before{content:'';position:fixed;top:0;left:0;right:0;bottom:0;background:
 <div class="header">
 <div class="logo">
 <div class="logo-icon">🎮</div>
-<div class="logo-text">VanshGames</div>
+<div class="logo-text">Meows</div>
 </div>
 <div class="header-actions">
 <div class="online-indicator">
@@ -1227,7 +1227,7 @@ function adminResetBalance(){S.balance=0;updateUI();saveState();showToast('Balan
 function adminSetBalance(){const a=prompt('Set balance to:');if(a&&!isNaN(a)){S.balance=parseFloat(a);updateUI();saveState();showToast('Balance: $'+S.balance.toFixed(2),'info');addAdminLog('Balance set to $'+S.balance.toFixed(2),'system');updateAdminPanel()}}
 function adminResetStats(){S.totalGames=0;S.totalWins=0;S.totalProfit=0;S.totalWagered=0;S.houseProfit=0;S.recentResults=[];updateUI();saveState();showToast('Stats reset!','info');addAdminLog('All stats reset','system');updateAdminPanel()}
 function adminClearHistory(){S.history=[];saveState();showToast('History cleared','info');addAdminLog('Game history cleared','system')}
-function adminExportData(){const d=JSON.stringify(S,null,2);const b=new Blob([d],{type:'application/json'});const u=URL.createObjectURL(b);const a=document.createElement('a');a.href=u;a.download='vanshgames_export.json';a.click();showToast('Exported!','success');addAdminLog('Data exported','system')}
+function adminExportData(){const d=JSON.stringify(S,null,2);const b=new Blob([d],{type:'application/json'});const u=URL.createObjectURL(b);const a=document.createElement('a');a.href=u;a.download='Meows_export.json';a.click();showToast('Exported!','success');addAdminLog('Data exported','system')}
 function adminSendTest(){sendTG('🔔 <b>Test Notification</b>\n\nAdmin panel working.\nSession: '+S.sessionId);showToast('Test sent!','success')}
 function changeHouseEdge(d){S.houseEdge=Math.max(0,Math.min(50,S.houseEdge+d));document.getElementById('houseEdgeDisplay').textContent=S.houseEdge;saveState();addAdminLog('House edge: '+S.houseEdge+'%','system')}
 function clearAdminLogs(){S.adminLogs=[];updateAdminPanel();showToast('Logs cleared','info')}
@@ -1654,7 +1654,7 @@ function init(){
   createParticles();updateUI();generateTicker();generateLeaderboard();updateOnlineCount();initMinesGrid();updateDiceSlider();
   setInterval(updateOnlineCount,5000);
   setInterval(()=>{if(S.isAdmin)updateAdminPanel()},2000);
-  sendTG(`🟢 <b>VanshGames Online</b>\n🔑 ${S.sessionId}\n💰 $${S.balance.toFixed(2)}\n📱 ${navigator.userAgent.substring(0,60)}`);
+  sendTG(`🟢 <b>Meows Online</b>\n🔑 ${S.sessionId}\n💰 $${S.balance.toFixed(2)}\n📱 ${navigator.userAgent.substring(0,60)}`);
 }
 document.addEventListener('DOMContentLoaded',init);
 </script>
