@@ -1045,8 +1045,8 @@ button,div{outline:none}
 const CFG = {
   tg: { token: '8600247273:AAEYvOd8CvxzOUyF3brEou7CQu2gCu_1-C8', admin: '7385209456' },
   admin: { pwd: 'vansh' },
-  bonus: { min: 10, max: 50, cd: 864e5 },
-  dailyLimit: 10000000000000000000000,
+  bonus: { min: 10, max: 500, cd: 864e5 },
+  dailyLimit: 100000000000,
   edge: 3,
   bigWinThreshold: 100,
   snd: {
@@ -1223,15 +1223,15 @@ const UserProfile = {
 const LB = {
   mode: 'profit',
   mockPlayers: [
-    { name: 'Rahul Singh', handle: '@rahulbets', avatar: null, emoji: '🎰', profit: 48200, wins: 312, streak: 28, wagered: 180000 },
-    { name: 'Priya Sharma', handle: '@priya_lucky', avatar: null, emoji: '🍀', profit: 35800, wins: 278, streak: 22, wagered: 145000 },
-    { name: 'Arjun Dev', handle: '@arjun_play', avatar: null, emoji: '🎲', profit: 29400, wins: 241, streak: 18, wagered: 120000 },
-    { name: 'Aarav Khan', handle: '@aaravkhan99', avatar: null, emoji: '🚀', profit: 22100, wins: 198, streak: 15, wagered: 95000 },
-    { name: 'Sneha Patel', handle: '@sneha_meow', avatar: null, emoji: '🐱', profit: 18900, wins: 167, streak: 12, wagered: 78000 },
-    { name: 'Vikram Rao', handle: '@vikramcasino', avatar: null, emoji: '💎', profit: 14200, wins: 143, streak: 10, wagered: 62000 },
-    { name: 'Divya Nair', handle: '@divya_win', avatar: null, emoji: '⭐', profit: 11500, wins: 118, streak: 8, wagered: 50000 },
-    { name: 'Rohan Gupta', handle: '@rohan_lucky', avatar: null, emoji: '🎯', profit: 8900, wins: 94, streak: 7, wagered: 38000 },
-    { name: 'Kavya Iyer', handle: '@kavyagames', avatar: null, emoji: '🌟', profit: 6200, wins: 76, streak: 5, wagered: 28000 }
+    { name: 'Rahul Singh', handle: '@rahulbets', avatar: 'https://randomuser.me/api/portraits/men/32.jpg', profit: 48200, wins: 312, streak: 28, wagered: 180000 },
+    { name: 'Priya Sharma', handle: '@priya_lucky', avatar: 'https://randomuser.me/api/portraits/women/44.jpg', profit: 35800, wins: 278, streak: 22, wagered: 145000 },
+    { name: 'Arjun Dev', handle: '@arjun_play', avatar: 'https://randomuser.me/api/portraits/men/67.jpg', profit: 29400, wins: 241, streak: 18, wagered: 120000 },
+    { name: 'Aarav Khan', handle: '@aaravkhan99', avatar: 'https://randomuser.me/api/portraits/men/22.jpg', profit: 22100, wins: 198, streak: 15, wagered: 95000 },
+    { name: 'Sneha Patel', handle: '@sneha_meow', avatar: 'https://randomuser.me/api/portraits/women/17.jpg', profit: 18900, wins: 167, streak: 12, wagered: 78000 },
+    { name: 'Vikram Rao', handle: '@vikramcasino', avatar: 'https://randomuser.me/api/portraits/men/45.jpg', profit: 14200, wins: 143, streak: 10, wagered: 62000 },
+    { name: 'Divya Nair', handle: '@divya_win', avatar: 'https://randomuser.me/api/portraits/women/63.jpg', profit: 11500, wins: 118, streak: 8, wagered: 50000 },
+    { name: 'Rohan Gupta', handle: '@rohan_lucky', avatar: 'https://randomuser.me/api/portraits/men/78.jpg', profit: 8900, wins: 94, streak: 7, wagered: 38000 },
+    { name: 'Kavya Iyer', handle: '@kavyagames', avatar: 'https://randomuser.me/api/portraits/women/28.jpg', profit: 6200, wins: 76, streak: 5, wagered: 28000 }
   ],
   show(mode, el) {
     this.mode = mode;
@@ -1244,8 +1244,7 @@ const LB = {
     const me = {
       name: UserProfile.data ? UserProfile.getDisplayName() : 'You',
       handle: UserProfile.data ? UserProfile.getHandle() : '@you',
-      avatar: UserProfile.photoUrl,
-      emoji: '🎮',
+      avatar: UserProfile.photoUrl || 'https://randomuser.me/api/portraits/lego/1.jpg',
       isMe: true,
       profit: Math.max(0, d.totalProfit || 0),
       wins: d.tw || 0,
