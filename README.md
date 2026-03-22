@@ -4,682 +4,794 @@
 
 ![Meow Games Banner](https://i.ibb.co/JFqyY0BN/logo.png)
 
-### 🎰 Premium Casino Games Web App
-**Real Aviator-Style · Telegram Mini App · Live & Ready to Play**
+### 🎮 Premium Casino Games Web App • Real Aviator-Style • Telegram Mini App
 
-[![Live Demo](https://img.shields.io/badge/🎮_Live_Demo-Play_Now-6c63ff?style=for-the-badge)](https://vanshvx1-afk.github.io/telegram-games/v3)
-[![Telegram Bot](https://img.shields.io/badge/🤖_Telegram_Bot-@MeowMiniGamebot-0088cc?style=for-the-badge)](https://t.me/MeowMiniGamebot)
-[![Portfolio](https://img.shields.io/badge/👨‍💻_Developer-Portfolio-00e67a?style=for-the-badge)](https://vanshvx1-afk.github.io)
+[![Live Demo](https://img.shields.io/badge/🎮_Live_Demo-vanshvx1--afk.github.io-6c63ff?style=for-the-badge)](https://vanshvx1-afk.github.io/telegram-games/v3)
+[![Portfolio](https://img.shields.io/badge/👤_Portfolio-vanshcz.online-00e67a?style=for-the-badge)](https://vanshcz.online)
+[![Telegram Bot](https://img.shields.io/badge/🤖_Live_Bot-@MeowMiniGamebot-0088cc?style=for-the-badge)](https://t.me/MeowMiniGamebot)
+[![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub_Pages-181717?style=for-the-badge&logo=github)](https://pages.github.com/)
 
-<img src="https://img.shields.io/badge/Status-Live-00e67a?style=flat-square"/> 
-<img src="https://img.shields.io/badge/Games-8-ffd700?style=flat-square"/>
-<img src="https://img.shields.io/badge/PWA-Enabled-6c63ff?style=flat-square"/>
-<img src="https://img.shields.io/badge/No_Dependencies-Pure_JS-00e67a?style=flat-square"/>
-<img src="https://img.shields.io/badge/Offline_Mode-✓-ff4757?style=flat-square"/>
+**8 Premium Games • Live Players • Admin Panel • VIP System • PWA • Offline Support**
 
-</div>
+[✨ Features](#-all-special-features) • [🚀 Quick Deploy](#-deploy-to-github-pages) • [🎮 Games](#-games-8-total) • [⚙️ Customization](#️-how-to-edit) • [📱 Mobile](#-mobile--pwa-features)
 
 ---
 
-<div align="center">
-
-## 🚀 Quick Links
-
-| **🎮 [PLAY NOW](https://vanshvx1-afk.github.io/telegram-games/v3)** | **🤖 [TELEGRAM BOT](https://t.me/MeowMiniGamebot)** | **👨‍💻 [MY PORTFOLIO](https://vanshvx1-afk.github.io)** |
-|:---:|:---:|:---:|
-| Live web version | Play in Telegram | More projects |
-
 </div>
 
----
-
-<div align="center">
-
-## 🎬 Live Preview Gallery
+## 🌟 Why Meow Games?
 
 <table>
 <tr>
-<td width="33%">
-<img src="https://via.placeholder.com/400x300/080c18/6c63ff?text=🎮+Home+Screen" alt="Home Screen" width="100%"/>
-<p align="center"><b>🏠 Home Screen</b><br/>Live chat · Daily missions · VIP progress</p>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/null/code.png" width="64"/><br/>
+<b>🔥 Zero Dependencies</b><br/>
+Single HTML file<br/>No npm, no build
 </td>
-<td width="33%">
-<img src="https://via.placeholder.com/400x300/080c18/00e67a?text=✈️+MeowFly+Game" alt="MeowFly" width="100%"/>
-<p align="center"><b>✈️ MeowFly (Aviator)</b><br/>Real-time multiplier · Live players · Auto cashout</p>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/null/rocket.png" width="64"/><br/>
+<b>⚡ Instant Deploy</b><br/>
+Copy → Paste → Live<br/>GitHub Pages ready
 </td>
-<td width="33%">
-<img src="https://via.placeholder.com/400x300/080c18/ff4757?text=💣+Mines+Game" alt="Mines" width="100%"/>
-<p align="center"><b>💣 Mines</b><br/>24× max win · Smart cashout · Gem particles</p>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/null/smartphone-tablet.png" width="64"/><br/>
+<b>📱 PWA Ready</b><br/>
+Install like native app<br/>Works offline
 </td>
 </tr>
 <tr>
-<td width="33%">
-<img src="https://via.placeholder.com/400x300/080c18/ffa502?text=🎲+Dice+Game" alt="Dice" width="100%"/>
-<p align="center"><b>🎲 Dice</b><br/>Roll under target · 9.9× multiplier · Instant results</p>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/null/administrative-tools.png" width="64"/><br/>
+<b>🛡️ Admin Control</b><br/>
+11-tab dashboard<br/>Full game rigging
 </td>
-<td width="33%">
-<img src="https://via.placeholder.com/400x300/080c18/ffd700?text=🎡+Wheel+Game" alt="Wheel" width="100%"/>
-<p align="center"><b>🎡 Fortune Wheel</b><br/>CSS animations · 5× max · Daily free spin</p>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/null/telegram-app.png" width="64"/><br/>
+<b>💬 Telegram Ready</b><br/>
+Bot integration<br/>Auto notifications
 </td>
-<td width="33%">
-<img src="https://via.placeholder.com/400x300/080c18/6c63ff?text=🎱+Admin+Panel" alt="Admin" width="100%"/>
-<p align="center"><b>🛡️ Admin Panel</b><br/>11 tabs · Full control · Live analytics</p>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## ✨ What Makes This Special?
-
-<img src="https://via.placeholder.com/1200x400/080c18/ffffff?text=🎆+PREMIUM+FEATURES+·+FULLY+FUNCTIONAL+·+READY+TO+DEPLOY+🎆" alt="Features Banner" width="100%"/>
-
-</div>
-
-| 🎨 Visual Effects | 🎮 Game Mechanics | 📱 Mobile First | 🔧 Admin Tools |
-|:-:|:-:|:-:|:-:|
-| <img src="https://via.placeholder.com/200x150/080c18/00e67a?text=✨+Particles" width="180"/> | <img src="https://via.placeholder.com/200x150/080c18/6c63ff?text=🎯+Auto+Play" width="180"/> | <img src="https://via.placeholder.com/200x150/080c18/ffa502?text=📲+PWA" width="180"/> | <img src="https://via.placeholder.com/200x150/080c18/ff4757?text=📊+Analytics" width="180"/> |
-| **Fireworks** on big wins<br/>**Gem sparkle** bursts<br/>**Confetti** animations | **Martingale** strategy<br/>**Auto cashout**<br/>**Bet patterns** | **Swipe** navigation<br/>**Haptic** feedback<br/>**Offline** mode | **Force** win/lose<br/>**Live** stats<br/>**Player** control |
-
----
-
-<div align="center">
-
-## 🌐 Access Methods
-
-</div>
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 🌍 Web Version
-
-**[vanshvx1-afk.github.io/telegram-games/v3](https://vanshvx1-afk.github.io/telegram-games/v3)**
-
-✅ Works on any device  
-✅ No installation needed  
-✅ Full-screen mode available  
-✅ Share with anyone  
-
-<a href="https://vanshvx1-afk.github.io/telegram-games/v3">
-<img src="https://img.shields.io/badge/🎮_PLAY_WEB_VERSION-6c63ff?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</td>
-<td width="50%" align="center">
-
-### 💬 Telegram Bot
-
-**[@MeowMiniGamebot](https://t.me/MeowMiniGamebot)**
-
-✅ Integrated in Telegram  
-✅ Instant access  
-✅ Share with friends  
-✅ Native app feel  
-
-<a href="https://t.me/MeowMiniGamebot">
-<img src="https://img.shields.io/badge/🤖_OPEN_TELEGRAM_BOT-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/null/paint-palette.png" width="64"/><br/>
+<b>🎨 Fully Customizable</b><br/>
+Edit colors, sounds<br/>No coding needed
 </td>
 </tr>
 </table>
 
 ---
 
-<div align="center">
-
-## 📁 Version History & Files
-
-<img src="https://via.placeholder.com/1200x80/080c18/ffd700?text=📦+ORGANIZED+VERSIONS+·+EASY+BACKUPS+·+CLEAR+STRUCTURE" width="100%"/>
-
-</div>
-
-```mermaid
-graph LR
-    A[v1 Original] --> B[v2 +4 Games]
-    B --> C[v3 Light Theme ⭐]
-    C --> D[Latest in Development]
-    
-    style A fill:#ff4757
-    style B fill:#ffa502
-    style C fill:#00e67a
-    style D fill:#6c63ff
-```
-
-| Version | File | Features | Status | Live URL |
-|:-------:|:----:|:---------|:------:|:---------|
-| **v1** | `index.html (v1)` | 4 games, basic UI | 🟥 Deprecated | - |
-| **v2** | `index.html (v2)` | +4 games, improved animations | 🟨 Backup | - |
-| **v3** ⭐ | `index.html (v3)` | Light theme, PWA, Service Worker | 🟩 **LIVE** | **[Play v3](https://vanshvx1-afk.github.io/telegram-games/v3)** |
-| **Latest** | `index.html` | All features, bug fixes, optimized | 🔵 Development | - |
-
-<div align="center">
-
-> 💡 **Use v3 for production** — fully tested & stable  
-> 🚧 Latest version has experimental features
-
-</div>
-
-### 📦 Support Files Compatibility
-
-```diff
-┌────────────────────┬─────┬─────┬─────┬────────┐
-│ File               │ v1  │ v2  │ v3  │ Latest │
-├────────────────────┼─────┼─────┼─────┼────────┤
-│ index.html         │  ✅  │  ✅  │  ✅  │   ✅   │
-│ sw.js              │  ❌  │  ❌  │  ✅  │   ✅   │
-│ manifest.json      │  ❌  │  ❌  │  ✅  │   ✅   │
-└────────────────────┴─────┴─────┴─────┴────────┘
-```
-
-- **`sw.js`** — Service Worker for offline play (required from v3+)
-- **`manifest.json`** — PWA config for "Add to Home Screen" (optional)
-
----
-
-<div align="center">
-
-## 🚀 Quick Deploy Guide
-
-### GitHub Pages (2 Minutes Setup)
-
-<img src="https://via.placeholder.com/1200x100/080c18/6c63ff?text=📁+FORK+→+⚙️+ENABLE+PAGES+→+🎉+LIVE!" width="100%"/>
-
-</div>
-
-### Method 1: Fork This Repo (Easiest)
-
-```bash
-1. Click "Fork" button on GitHub
-2. Go to Settings → Pages
-3. Source: main branch / root
-4. Save and wait 2 minutes
-5. Your game is live at: https://your-username.github.io/telegram-games/v3
-```
-
-### Method 2: Fresh Repository
-
-**1️⃣ Create new repo and upload files:**
-```bash
-git clone https://github.com/yourusername/your-game-name.git
-cd your-game-name
-
-# Download these files from the v3 folder:
-- index.html
-- sw.js
-- manifest.json
-- README.md
-
-git add .
-git commit -m "🎮 Deploy Meow Games"
-git push origin main
-```
-
-**2️⃣ Enable GitHub Pages:**
-<div align="center">
-
-```
-GitHub Repo → Settings → Pages
-   ↓
-Source: main branch / root
-   ↓
-💾 Save
-```
-
-</div>
-
-**3️⃣ Your game is live at:**
-```
-🌐 https://yourusername.github.io/your-game-name
-```
-
----
-
-### 💻 Local Development
+## 📦 File Versions
 
 <table>
+<thead>
 <tr>
-<td width="50%">
+<th width="15%">Version</th>
+<th width="25%">File</th>
+<th width="60%">What's New</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">🔵 v1</td>
+<td><code>index.html (v1)</code></td>
+<td>• Original release<br/>• 6 games<br/>• Basic admin panel</td>
+</tr>
+<tr>
+<td align="center">🟢 v2</td>
+<td><code>index.html (v2)</code></td>
+<td>• 8 games total<br/>• Improved UI/UX<br/>• Live chat added<br/>• VIP system</td>
+</tr>
+<tr>
+<td align="center">🟡 v3</td>
+<td><code>index.html (v3)</code></td>
+<td>• Light theme toggle<br/>• MeowFly redesign<br/>• PWA support<br/>• Service Worker<br/>• Bug fixes</td>
+</tr>
+<tr style="background: linear-gradient(90deg, #6c63ff22, transparent);">
+<td align="center">✅ <b>Latest</b></td>
+<td><code><b>index.html</b></code></td>
+<td>✨ <b>Most updated version — Always use this!</b><br/>• All v3 features<br/>• Performance boost<br/>• Enhanced animations<br/>• Advanced admin tools</td>
+</tr>
+</tbody>
+</table>
 
-**Method 1: Live Server**
+### 📋 Required Files per Version
+
+| File | v1 | v2 | v3 | Latest |
+|:-----|:--:|:--:|:--:|:------:|
+| `index.html` | ✅ | ✅ | ✅ | ✅ |
+| `sw.js` | ❌ | ❌ | ✅ | ✅ |
+| `manifest.json` | ❌ | ❌ | 🔶 | 🔶 |
+
+> 🔶 = Optional but recommended for full PWA experience
+
+---
+
+## 🚀 Deploy to GitHub Pages
+
+### ⚡ 3-Step Instant Deploy
+
 ```bash
-cd your-game-folder
+# Step 1: Clone or download these files
+index.html          # Main game file
+sw.js              # Service Worker (offline support)
+manifest.json      # PWA config (optional)
+README.md          # This documentation
+```
+
+**Step 2: Upload to GitHub**
+```
+1. Create new repository on GitHub
+2. Upload all files to root folder
+3. Commit and push
+```
+
+**Step 3: Enable Pages**
+```
+Settings → Pages → Source: main branch / root → Save
+```
+
+### 🌐 Your Game is Live!
+
+```
+https://yourusername.github.io/your-repo-name
+```
+
+<details>
+<summary><b>🖥️ Run Locally on Your PC</b></summary>
+
+### Option 1: Live Server (Recommended)
+```cmd
+cd your-folder
 npx live-server
 ```
-Opens at `http://localhost:8080`
 
-✅ Auto-reload on file changes  
-✅ Works with Service Worker  
-✅ Easy debugging  
-
-</td>
-<td width="50%">
-
-**Method 2: Direct Open**
-```bash
-# Just double-click
-index.html
+### Option 2: Python Server
+```cmd
+cd your-folder
+python -m http.server 8000
 ```
-Opens directly in browser
 
-✅ No installation needed  
-✅ Works immediately  
-⚠️ Service Worker may not work  
+### Option 3: Direct Open
+```
+Simply double-click index.html
+(Some features may be limited)
+```
 
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
-<div align="center">
-
-## 🎮 Complete Game Collection
-
-<img src="https://via.placeholder.com/1200x100/6c63ff/ffffff?text=8+PREMIUM+GAMES+·+INFINITE+GAMEPLAY+·+REAL+CASINO+FEEL" width="100%"/>
-
-</div>
+## 🎮 Games (8 Total)
 
 <table>
+<thead>
 <tr>
 <th width="5%">#</th>
-<th width="15%">Game</th>
-<th width="10%">Max Win</th>
-<th width="35%">Description</th>
-<th width="35%">Preview</th>
+<th width="20%">Game</th>
+<th width="12%">Max Win</th>
+<th width="63%">Description</th>
 </tr>
-
+</thead>
+<tbody>
 <tr>
 <td align="center">1</td>
 <td><b>💣 Mines</b></td>
-<td align="center"><code>24×</code></td>
-<td>Click tiles to find gems, avoid bombs. Cash out anytime to keep winnings. Risk vs reward strategy game with sparkle effects.</td>
-<td><img src="https://via.placeholder.com/200x100/080c18/00e67a?text=💎+Mines" width="100%"/></td>
+<td><code>24×</code></td>
+<td>Find gems, avoid mines — cash out anytime to keep profit<br/>🎯 <i>Auto-play mode • Strategy optimizer • Live map in admin</i></td>
 </tr>
-
 <tr>
 <td align="center">2</td>
-<td><b>🐱 MeowFly</b></td>
-<td align="center"><code>∞×</code></td>
-<td>Aviator-style crash game. Plane takes off, multiplier rises. Cash out before it crashes! Live players, auto-cashout, bet strategies.</td>
-<td><img src="https://via.placeholder.com/200x100/080c18/6c63ff?text=✈️+MeowFly" width="100%"/></td>
+<td><b>🐱 Meow Fly</b></td>
+<td><code>∞×</code></td>
+<td>Aviator-style crash game — cash out before plane crashes<br/>✈️ <i>Real-time multiplier • Bet strategies • Live players • Charts</i></td>
 </tr>
-
 <tr>
 <td align="center">3</td>
 <td><b>🎲 Dice</b></td>
-<td align="center"><code>9.9×</code></td>
-<td>Set target number (1-100), roll below to win. Lower target = higher multiplier. Simple, fast, addictive.</td>
-<td><img src="https://via.placeholder.com/200x100/080c18/ffa502?text=🎲+Dice" width="100%"/></td>
+<td><code>9.9×</code></td>
+<td>Set a target number (1-100), roll below it to win<br/>🎯 <i>Adjustable risk • Provably fair • Auto-bet mode</i></td>
 </tr>
-
 <tr>
 <td align="center">4</td>
 <td><b>🎡 Wheel</b></td>
-<td align="center"><code>5×</code></td>
-<td>Spin the fortune wheel with 8 segments. Smooth CSS rotation animation. Daily free spin with up to $200 bonus.</td>
-<td><img src="https://via.placeholder.com/200x100/080c18/ffd700?text=🎡+Wheel" width="100%"/></td>
+<td><code>5×</code></td>
+<td>Spin the fortune wheel and land on a multiplier<br/>🌈 <i>Smooth animations • Sound effects • History tracker</i></td>
 </tr>
-
 <tr>
 <td align="center">5</td>
 <td><b>⚽ Plinko</b></td>
-<td align="center"><code>5×</code></td>
-<td>Drop ball through pegs with realistic physics. 9 prize buckets with different multipliers. Watch the ball bounce!</td>
-<td><img src="https://via.placeholder.com/200x100/080c18/ff4757?text=⚽+Plinko" width="100%"/></td>
+<td><code>5×</code></td>
+<td>Drop a ball through pegs — realistic physics engine<br/>🎯 <i>3 risk levels • Multiple balls • Trajectory preview</i></td>
 </tr>
-
 <tr>
 <td align="center">6</td>
 <td><b>🃏 Hi-Lo</b></td>
-<td align="center"><code>12×</code></td>
-<td>Guess if next card is higher or lower. Chain correct guesses for exponential multiplier. Animated card deck.</td>
-<td><img src="https://via.placeholder.com/200x100/080c18/00e67a?text=🃏+HiLo" width="100%"/></td>
+<td><code>12×</code></td>
+<td>Guess if next card is higher or lower — chain wins for big multiplier<br/>📊 <i>Card counting helper • Streak tracker • Cashout option</i></td>
 </tr>
-
 <tr>
 <td align="center">7</td>
 <td><b>🎱 Keno</b></td>
-<td align="center"><code>40×</code></td>
-<td>Pick 1-10 numbers from 40. Match as many as possible. Quick-select patterns: Cross, Corners, Diagonal, Lucky 7s.</td>
-<td><img src="https://via.placeholder.com/200x100/080c18/6c63ff?text=🎱+Keno" width="100%"/></td>
+<td><code>40×</code></td>
+<td>Pick 1–10 numbers from 40, match as many as possible<br/>🎯 <i>Quick-pick patterns • Match counter • Payout table</i></td>
 </tr>
-
 <tr>
 <td align="center">8</td>
 <td><b>🎰 Double Up</b></td>
-<td align="center"><code>4×</code></td>
-<td>Predict Red/Black or exact suit. Streak multiplier system. Fast-paced card prediction with visual effects.</td>
-<td><img src="https://via.placeholder.com/200x100/080c18/ffa502?text=🎰+DoubleUp" width="100%"/></td>
+<td><code>4×</code></td>
+<td>Predict Red/Black or exact suit — streak multiplier bonus<br/>🔥 <i>Streak system • Double chance • Quick play</i></td>
 </tr>
-
+</tbody>
 </table>
 
-<div align="center">
-
-> 🚧 **Coming Soon:** Slots, Blackjack, Poker, Rocket League, Sports Betting
-
-</div>
+> 💡 **More games planned:** Slots, Blackjack, Roulette, Tower, Limbo, Crash Variants
 
 ---
 
-<div align="center">
+## 🛡️ Admin Panel — 11 Powerful Tabs
 
-## ✏️ Easy Customization
+### 🔐 How to Access
 
-<img src="https://via.placeholder.com/1200x80/080c18/ffd700?text=🎨+FULL+CONTROL+·+EDIT+ANYTHING+·+NO+CODING+NEEDED" width="100%"/>
+<table>
+<tr>
+<td width="50%">
 
-</div>
+**🖱️ Desktop:**
+- Press `Shift + A`
+- Enter password
+
+</td>
+<td width="50%">
+
+**📱 Mobile:**
+- Tap logo **5 times quickly**
+- Enter password
+
+</td>
+</tr>
+</table>
+
+### 🎛️ Control Center Features
+
+<details open>
+<summary><b>📊 Tab 1: Dashboard Stats</b></summary>
+
+```
+✅ Session Overview
+├─ Current Balance
+├─ Total Wagered
+├─ Win/Loss Ratio
+├─ House Profit/Loss
+├─ Games Played
+├─ Win Streaks
+├─ VIP Level
+└─ Session Duration
+```
+
+</details>
+
+<details>
+<summary><b>🎮 Tab 2: Game Control</b></summary>
+
+| Action | Description |
+|--------|-------------|
+| 🎯 **Force Win** | Next bet guaranteed win |
+| 💀 **Force Lose** | Next bet guaranteed loss |
+| 🔁 **Force N Times** | Control next 1-10 rounds |
+| 🔄 **Alternate Mode** | Win-lose-win-lose pattern |
+| 💰 **Quick Add** | +$100 / +$500 / +$1K / +$10K / +$100K / +$1M |
+| 🎬 **Scenarios** | Big Win, Bad Luck, Recovery, High Roller, Down to $10 |
+
+</details>
+
+<details>
+<summary><b>💣 Tab 3: Mines Control</b></summary>
+
+- 🗺️ **Live Mine Map** — see bomb positions in real-time
+- 💎 **Reveal Safe Tile** — force next click to be gem
+- 💣 **Trigger Bomb** — force next click to be mine
+- 💵 **Force Cashout** — auto cashout with profit
+- 🔄 **Refund Bet** — return bet amount instantly
+
+</details>
+
+<details>
+<summary><b>🐱 Tab 4: MeowFly Control</b></summary>
+
+- 📈 **Live Multiplier Monitor** — watch multiplier in real-time
+- 💥 **Force Crash At** — set exact crash point (1.00× - 100.00×)
+- 🎯 **Auto Cashout Control** — override player settings
+- 👥 **Fake Player Manager** — add/remove simulated players
+- 📊 **Crash History** — last 50 rounds with sparkline chart
+
+</details>
+
+<details>
+<summary><b>🎰 Tab 5: Rig All Games</b></summary>
+
+```
+🎲 Dice → Set exact result (1-100)
+🐱 MeowFly → Set crash multiplier
+🎡 Wheel → Force segment (5×, 3×, 2×, 1.5×, 1×, 0×)
+⚽ Plinko → Force bucket (0.5× to 5×)
+🃏 HiLo → Force next card
+🎱 Keno → Force matched numbers (0-10)
+🎰 DoubleUp → Force color/suit
+```
+
+</details>
+
+<details>
+<summary><b>👥 Tab 6: Player Management</b></summary>
+
+- 📊 **Player Profile** — full stats overview
+- ⭐ **VIP System** — 6 levels (Bronze → Legend)
+- 🏆 **Loyalty Points** — view and edit manually
+- 👤 **Fake Players** — manage simulated player names
+- 🎁 **Bonus Control** — trigger daily bonus manually
+- 📜 **Transaction Log** — all bets and wins
+
+</details>
+
+<details>
+<summary><b>📈 Tab 7: Analytics</b></summary>
+
+- 📊 **Win/Loss Chart** — bar graph by game type
+- 💹 **Profit/Loss Table** — per-game breakdown
+- ⏱️ **Games Per Hour** — activity tracking
+- 💾 **Export JSON** — download full session data
+- 📄 **Export CSV** — Excel-compatible format
+- 📧 **Send to Telegram** — instant report to admin
+
+</details>
+
+<details>
+<summary><b>🔔 Tab 8: Alert System</b></summary>
+
+Toggle 7 notification types:
+```
+✅ Big Wins (>$100)
+✅ Big Losses (>$100)
+✅ Streak Alerts (5+ wins/losses)
+✅ Balance Thresholds (custom $)
+✅ VIP Level Up
+✅ Achievement Unlocks
+✅ Crash Milestones (10×, 50×, 100×)
+```
+
+Custom threshold settings available.
+
+</details>
+
+<details>
+<summary><b>📨 Tab 9: Telegram Integration</b></summary>
+
+**10+ Quick Send Buttons:**
+- 📊 Session Report
+- 💰 Balance Update
+- 🏆 Leaderboard
+- 📜 Full Activity Log
+- 🎮 Game Stats
+- ⚠️ Error Alerts
+- 🎁 Bonus Notification
+- ⭐ VIP Status Update
+- 🔥 Big Win Alert
+- 📈 Analytics Summary
+
+**5 Message Templates:**
+- Welcome Message
+- Promotional Offer
+- VIP Upgrade Congrats
+- Low Balance Warning
+- Daily Login Reward
+
+</details>
+
+<details>
+<summary><b>📜 Tab 10: Activity Logs</b></summary>
+
+```
+📋 Full Activity Feed
+├─ Timestamp
+├─ Game Type
+├─ Bet Amount
+├─ Result (Win/Loss)
+├─ Multiplier
+├─ Balance After
+└─ Profit/Loss
+
+🔍 Filters:
+  • All Activities
+  • Wins Only
+  • Losses Only
+  • Today
+  • This Week
+
+📤 Export Options:
+  • Download as .txt
+  • Send to Telegram
+  • Copy to Clipboard
+```
+
+</details>
+
+<details>
+<summary><b>⚙️ Tab 11: System Config</b></summary>
+
+| Setting | Control |
+|---------|---------|
+| 🎯 **House Edge** | 0% - 50% stepper |
+| 🎁 **Daily Bonus** | Min: $10-$500 / Max: $50-$1000 |
+| ⏰ **Bonus Cooldown** | 1h - 48h slider |
+| 🔄 **Reset Cooldown** | Instant reset button |
+| 💾 **Clear All Data** | Factory reset |
+| 📊 **System Info** | Browser, storage, performance |
+| 🎨 **Theme Override** | Force light/dark |
+| 🔊 **Master Volume** | 0% - 100% |
+
+</details>
+
+### 🎯 Admin Extras After Login
+
+Once logged in, you get:
+
+```
+🔘 Floating Admin Button (bottom-right)
+   └─ Tap for instant panel access from any screen
+
+🖱️ Right-Click Menu
+   ├─ +$1,000 Instant
+   ├─ Force Next Win
+   ├─ Force Next Loss
+   ├─ Send Telegram Report
+   └─ Quick Scenarios
+
+⏸️ Session Controls
+   ├─ Pause All Games
+   ├─ End All Games
+   └─ Emergency Stop
+
+🎬 One-Click Scenarios
+   ├─ Big Win (3 wins, +$800)
+   ├─ Bad Luck (3 losses, -$300)
+   ├─ Recovery (loss → 2 wins)
+   ├─ High Roller ($500 bet → $5K win)
+   └─ Down to $10 (simulate broke)
+```
+
+---
+
+## ✏️ How to Edit
+
+### 🎨 Customize Colors (Dark Theme)
+
+**Search for:** `:root {`
+
+```css
+:root {
+  --pri:  #6c63ff;  /* 🟣 Purple - buttons, highlights, accents */
+  --suc:  #00e67a;  /* 🟢 Green - wins, success messages */
+  --dan:  #ff4757;  /* 🔴 Red - losses, mines, danger */
+  --warn: #ffa502;  /* 🟠 Orange - warnings, alerts */
+  --gold: #ffd700;  /* 🟡 Gold - VIP badges, achievements */
+  --bg:   #080c18;  /* ⬛ Dark navy - main background */
+  --card: #0f1419;  /* ⬜ Card background */
+  --text: #ffffff;  /* ⬜ Text color */
+  --muted:#6c7a89;  /* 🔵 Muted text */
+}
+```
+
+### ☀️ Customize Colors (Light Theme)
+
+**Search for:** `[data-theme="light"] {`
+
+```css
+[data-theme="light"] {
+  --pri:  #5147e8;  /* Slightly darker purple */
+  --bg:   #f0f2ff;  /* Light lavender background */
+  --card: #ffffff;  /* Pure white cards */
+  --text: #080c18;  /* Dark text */
+  --muted:#6c7a89;  /* Same muted color */
+}
+```
+
+> 💡 **Tip:** Use a color picker like [Coolors](https://coolors.co/) to generate palettes
+
+---
+
+### 🔊 Change All Sounds
+
+**Search for:** `CFG.snd`
+
+<details>
+<summary><b>🎵 Complete Sound Configuration</b></summary>
+
+```javascript
+snd: {
+  mines: {
+    safe:  'https://assets.mixkit.co/sfx/preview/mixkit-arcade-game-jump-coin-216.mp3',
+    bomb:  'https://assets.mixkit.co/sfx/preview/mixkit-losing-bleeps-2026.mp3',
+    win:   'https://assets.mixkit.co/sfx/preview/mixkit-video-game-win-2016.mp3',
+    funny: 'https://assets.mixkit.co/sfx/preview/mixkit-cat-meow-1295.mp3',
+    start: 'https://assets.mixkit.co/sfx/preview/mixkit-select-click-1109.mp3'
+  },
+  meowfly: {
+    fly:     'https://assets.mixkit.co/sfx/preview/mixkit-rocket-launch-1714.mp3',
+    boom:    'https://assets.mixkit.co/sfx/preview/mixkit-arcade-retro-game-over-213.mp3',
+    cashout: 'https://assets.mixkit.co/sfx/preview/mixkit-achievement-bell-600.mp3',
+    loss:    'https://assets.mixkit.co/sfx/preview/mixkit-player-losing-or-failing-2042.mp3'
+  },
+  dice: {
+    roll: 'https://assets.mixkit.co/sfx/preview/mixkit-dice-roll-1952.mp3',
+    win:  'https://assets.mixkit.co/sfx/preview/mixkit-bonus-earned-in-game-2058.mp3',
+    lose: 'https://assets.mixkit.co/sfx/preview/mixkit-wrong-answer-fail-notification-946.mp3'
+  },
+  wheel: {
+    spin: 'https://assets.mixkit.co/sfx/preview/mixkit-spinning-wheel-1949.mp3',
+    win:  'https://assets.mixkit.co/sfx/preview/mixkit-magic-sweep-game-trophy-257.mp3',
+    lose: 'https://assets.mixkit.co/sfx/preview/mixkit-sad-game-over-trombone-471.mp3'
+  },
+  plinko: {
+    drop:   'https://assets.mixkit.co/sfx/preview/mixkit-ping-pong-ball-hit-1724.mp3',
+    bigwin: 'https://assets.mixkit.co/sfx/preview/mixkit-fantasy-game-success-notification-270.mp3',
+    lose:   'https://assets.mixkit.co/sfx/preview/mixkit-failure-drum-roll-945.mp3'
+  },
+  hilo: {
+    deal: 'https://assets.mixkit.co/sfx/preview/mixkit-playing-card-shuffle-1929.mp3',
+    win:  'https://assets.mixkit.co/sfx/preview/mixkit-small-win-2020.mp3',
+    lose: 'https://assets.mixkit.co/sfx/preview/mixkit-retro-game-notification-212.mp3',
+    cash: 'https://assets.mixkit.co/sfx/preview/mixkit-coins-handling-1939.mp3'
+  },
+  keno: {
+    pick:   'https://assets.mixkit.co/sfx/preview/mixkit-select-click-1109.mp3',
+    draw:   'https://assets.mixkit.co/sfx/preview/mixkit-bingo-balls-in-air-1945.mp3',
+    hit:    'https://assets.mixkit.co/sfx/preview/mixkit-bell-notification-933.mp3',
+    bigwin: 'https://assets.mixkit.co/sfx/preview/mixkit-winning-chimes-2015.mp3',
+    lose:   'https://assets.mixkit.co/sfx/preview/mixkit-cartoon-losing-horn-2016.mp3'
+  },
+  double: {
+    flip: 'https://assets.mixkit.co/sfx/preview/mixkit-casino-card-flip-1937.mp3',
+    win:  'https://assets.mixkit.co/sfx/preview/mixkit-instant-win-2021.mp3',
+    lose: 'https://assets.mixkit.co/sfx/preview/mixkit-negative-tone-interface-tap-2569.mp3'
+  },
+  ui: {
+    click:    'https://assets.mixkit.co/sfx/preview/mixkit-modern-click-box-check-1120.mp3',
+    error:    'https://assets.mixkit.co/sfx/preview/mixkit-wrong-answer-bass-buzzer-948.mp3',
+    success:  'https://assets.mixkit.co/sfx/preview/mixkit-correct-answer-tone-2870.mp3',
+    navigate: 'https://assets.mixkit.co/sfx/preview/mixkit-interface-option-select-2573.mp3'
+  }
+}
+```
+
+</details>
+
+> 🎵 **Free Sound Libraries:**
+> - [Mixkit](https://mixkit.co/free-sound-effects/) — No attribution required
+> - [Freesound](https://freesound.org/) — Creative Commons
+> - [Zapsplat](https://www.zapsplat.com/) — Free with attribution
+
+**How to replace:**
+1. Find a sound you like
+2. Get the **direct MP3/WAV URL** (must end in `.mp3` or `.wav`)
+3. Replace the URL string in the code
+4. Save and refresh
+
+---
 
 ### 🔐 Change Admin Password
 
-```javascript
-// Open index.html, search for: CFG.admin
-admin: { 
-  pwd: 'vansh'   // ← Change to your password
-}
-```
-
----
-
-### 🔊 Replace Sound Effects
-
-<details>
-<summary><b>🎵 Click to view all sound locations</b></summary>
+**Search for:** `CFG.admin`
 
 ```javascript
-// Search for: CFG.snd in index.html
-
-mines: {
-  safe:  'https://your-cdn.com/gem.mp3',        // Gem found ✨
-  bomb:  'https://your-cdn.com/explosion.mp3',   // Mine hit 💥
-  win:   'https://your-cdn.com/cashout.mp3',     // Cashout 💰
-  funny: 'https://your-cdn.com/meow.mp3',        // Rare (7%) 🐱
-  start: 'https://your-cdn.com/start.mp3',       // Game start
-},
-
-meowfly: {
-  fly:     'https://your-cdn.com/takeoff.mp3',   // Plane takes off ✈️
-  boom:    'https://your-cdn.com/crash.mp3',     // Crash 💥
-  cashout: 'https://your-cdn.com/cashout.mp3',   // Cashout success
-  loss:    'https://your-cdn.com/lose.mp3',      // Loss after crash
-},
-
-dice:  { roll, win, lose },
-wheel: { spin, win, lose },
-plinko:{ drop, bigwin, lose },
-hilo:  { deal, win, lose, cash },
-keno:  { pick, draw, hit, bigwin, lose }
-```
-
-> 💡 **Tip:** Use direct `.mp3` or `.wav` links from any CDN
-
-</details>
-
----
-
-### 🎨 Color Themes
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-**🌙 Dark Theme**
-```css
-/* Search for: :root { */
-:root {
-  --pri:  #6c63ff;  /* Purple - buttons */
-  --suc:  #00e67a;  /* Green - wins */
-  --dan:  #ff4757;  /* Red - losses */
-  --warn: #ffa502;  /* Orange - warnings */
-  --gold: #ffd700;  /* Gold - VIP */
-  --bg:   #080c18;  /* Dark background */
+admin: {
+  pwd: 'vansh'  // ← Change to your secure password
 }
 ```
 
-</td>
-<td width="50%">
+> 🔒 **Security Tip:** Use a strong password with numbers and symbols
 
-**☀️ Light Theme**
-```css
-/* Search for: [data-theme="light"] */
-[data-theme="light"] {
-  --pri:  #5147e8;  /* Blue */
-  --suc:  #00c853;  /* Green */
-  --dan:  #d32f2f;  /* Red */
-  --warn: #ff6f00;  /* Orange */
-  --bg:   #f0f2ff;  /* Light BG */
+---
+
+### 💰 Adjust Starting Balance
+
+**Search for:** `bal: 1000`
+
+```javascript
+def: {
+  bal: 1000,   // Starting balance for new players ($)
+  vip: 0,      // Starting VIP level (0-5)
+  pts: 0       // Starting loyalty points
 }
 ```
 
-</td>
-</tr>
-</table>
-
-**Color Preview:**
-
-<img src="https://via.placeholder.com/100/6c63ff/000000?text=+" /> <img src="https://via.placeholder.com/100/00e67a/000000?text=+" /> <img src="https://via.placeholder.com/100/ff4757/000000?text=+" /> <img src="https://via.placeholder.com/100/ffa502/000000?text=+" /> <img src="https://via.placeholder.com/100/ffd700/000000?text=+" />
-
-</div>
-
 ---
 
-### ⚙️ Game Settings
+### 🎁 Configure Daily Bonus
 
-<table>
-<tr>
-<th width="30%">Setting</th>
-<th width="40%">Search For</th>
-<th width="30%">Default</th>
-</tr>
+**Search for:** `CFG.bonus`
 
-<tr>
-<td><b>🎰 House Edge</b></td>
-<td><code>edge: 3</code></td>
-<td>3% (range: 0-50)</td>
-</tr>
-
-<tr>
-<td><b>💰 Starting Balance</b></td>
-<td><code>def: { bal: 1000 }</code></td>
-<td>$1000</td>
-</tr>
-
-<tr>
-<td><b>🎁 Daily Bonus Range</b></td>
-<td><code>bonus: { min: 10, max: 500 }</code></td>
-<td>$10 - $500</td>
-</tr>
-
-<tr>
-<td><b>⏰ Bonus Cooldown</b></td>
-<td><code>bonus: { cd: 864e5 }</code></td>
-<td>24 hours</td>
-</tr>
-
-<tr>
-<td><b>📱 Telegram Bot Token</b></td>
-<td><code>tg: { token: '' }</code></td>
-<td>From @BotFather</td>
-</tr>
-
-<tr>
-<td><b>🖼️ Logo/Icon</b></td>
-<td><code>i.ibb.co/JFqyY0BN/logo.png</code></td>
-<td>Replace URL</td>
-</tr>
-
-</table>
-
----
-
-<div align="center">
-
-## 🛡️ Admin Panel Features
-
-<img src="https://via.placeholder.com/1200x200/080c18/6c63ff?text=🔧+FULL+ADMIN+CONTROL+·+11+TABS+·+LIVE+MONITORING" width="100%"/>
-
-### How to Access
-
-</div>
-
-| Method | Action |
-|:------:|:-------|
-| **Desktop** | Press `Shift + A` |
-| **Mobile** | Tap logo **5 times quickly** |
-| **Password** | Default: `vansh` |
-
----
-
-### 11 Admin Tabs Overview
-
-<table>
-<tr>
-<td width="50%">
-
-**📊 Stats**
-- Session overview
-- Win/loss ratio
-- Total wagered
-- House profit/loss
-- Player information
-
-**🎛️ Control**
-- Force next game result
-- Force N wins/losses
-- Alternate pattern
-- Add $100 to $1M
-- Quick scenarios
-
-**💣 Mines**
-- View live mine map
-- Reveal safe tiles
-- Trigger specific bombs
-- Force cashout
-- Refund bet
-
-**🎮 Games**
-- Monitor MeowFly live
-- Force crash point
-- HiLo card control
-- Wheel segment forcing
-
-**🎰 Rig**
-- Set dice result (1-100)
-- Set crash multiplier
-- Force wheel/plinko outcome
-- Keno number control
-
-**👥 Players**
-- View player profiles
-- Edit VIP levels
-- Adjust loyalty points
-- Manage fake players
-
-</td>
-<td width="50%">
-
-**📈 Analytics**
-- Win/loss bar charts
-- Per-game P&L tables
-- Games per hour
-- Export to JSON
-- Export to CSV
-
-**🔔 Alerts**
-- Toggle 7 notification types
-- Balance thresholds
-- Streak alerts
-- Crash point alerts
-- Custom triggers
-
-**📨 Telegram**
-- 10+ quick send buttons
-- 5 message templates
-- Broadcast to players
-- Send stats reports
-- Error notifications
-
-**📜 Logs**
-- Full activity history
-- Win/loss filtering
-- Export as .txt
-- Send to Telegram
-- Clear history
-
-**⚙️ Config**
-- House edge adjustment
-- Bonus controls
-- Reset cooldowns
-- System diagnostics
-- Performance metrics
-
-</td>
-</tr>
-</table>
-
----
-
-### 🎬 Admin Scenarios (One-Click)
-
+```javascript
+bonus: {
+  min: 10,     // Minimum daily bonus ($)
+  max: 500,    // Maximum daily bonus ($)
+  cd:  864e5   // Cooldown (864e5 = 24 hours in milliseconds)
+}
 ```
-🎆 Big Win Streak    → Trigger 5 consecutive wins with increasing multipliers
-😭 Bad Luck          → Force 3 losses in a row to simulate variance
-💪 Recovery Story    → Loss → Loss → Big Win (3× recovery)
-🚀 High Roller Mode  → Enable big bet limits and high multipliers
-📉 Down to $10       → Simulate near-bankruptcy for testing
+
+**Common cooldown values:**
+```javascript
+3600000   // 1 hour
+43200000  // 12 hours
+864e5     // 24 hours (default)
+172800000 // 48 hours
 ```
 
 ---
 
-<div align="center">
+### 📊 Set House Edge
+
+**Search for:** `edge:`
+
+```javascript
+edge: 3,   // House edge percentage per game (0-50)
+           // 0 = no edge (fair), 3 = standard, 10 = high edge
+```
+
+> ⚖️ **Recommended:** 3-5% for balanced gameplay
+
+---
+
+### 🖼️ Change Logo / App Icon
+
+**Search for:** `i.ibb.co/JFqyY0BN/logo.png`
+
+Replace all instances with your image URL:
+
+```html
+<!-- Header Logo -->
+<img src="YOUR_LOGO_URL" class="logo" />
+
+<!-- PWA Icon (manifest.json) -->
+"icons": [
+  { "src": "YOUR_ICON_URL", "sizes": "512x512" }
+]
+
+<!-- Admin Panel Icon -->
+<img src="YOUR_LOGO_URL" width="64" />
+```
+
+> 📐 **Recommended:** 512×512 PNG with transparent background
+
+---
+
+### 👥 Edit Fake Player Names
+
+**Search for:** `CFG.fakeNames`
+
+```javascript
+fakeNames: [
+  'Rahul S.', 'Priya K.', 'Arjun D.', 'Sneha M.', 'Vikram P.',
+  'Anjali R.', 'Rohan T.', 'Kavya N.', 'Aditya S.', 'Pooja L.',
+  'Karan B.', 'Neha G.', 'Siddharth J.', 'Riya C.', 'Manish K.'
+],
+```
+
+Add, remove, or rename as needed. These appear in:
+- 💬 Live chat feed
+- ✈️ MeowFly player bets bar
+- 🏆 Leaderboard (when not enough real players)
+
+---
+
+### 💬 Customize Live Chat Messages
+
+**Search for:** `LiveChat.msgs` or `CFG.msgs`
+
+```javascript
+msgs: [
+  '🔥 lets gooo!',
+  '💎 hit 3 gems!',
+  'gg ez win',
+  'NOOO crashed at 1.2x',
+  'cashed out at 5.6× 💰',
+  'how do i play mines?',
+  'VIP rewards are insane 👑',
+  'just won 200 on dice!',
+  'rip my balance lol',
+  'meow fly to the moon 🚀'
+]
+```
+
+---
+
+### 📱 Telegram Bot Configuration
+
+**Search for:** `CFG.tg`
+
+```javascript
+tg: {
+  token: 'YOUR_BOT_TOKEN',        // From @BotFather
+  admin: 'YOUR_TELEGRAM_CHAT_ID'  // Your Telegram user ID
+}
+```
+
+**How to get bot token:**
+1. Message [@BotFather](https://t.me/BotFather) on Telegram
+2. Send `/newbot`
+3. Follow instructions
+4. Copy the token
+
+**How to get your chat ID:**
+1. Message [@userinfobot](https://t.me/userinfobot)
+2. Copy the ID number
+
+---
 
 ## ⌨️ Keyboard Shortcuts
 
-<img src="https://via.placeholder.com/1200x60/080c18/00e67a?text=⚡+BLAZING+FAST+NAVIGATION+·+15%2B+SHORTCUTS" width="100%"/>
+<table>
+<thead>
+<tr>
+<th width="20%">Key</th>
+<th width="80%">Action</th>
+</tr>
+</thead>
+<tbody>
+<tr><td><kbd>1</kbd></td><td>🏠 Go to Home</td></tr>
+<tr><td><kbd>2</kbd></td><td>💣 Open Mines</td></tr>
+<tr><td><kbd>3</kbd></td><td>🐱 Open MeowFly</td></tr>
+<tr><td><kbd>4</kbd></td><td>🎲 Open Dice</td></tr>
+<tr><td><kbd>5</kbd></td><td>🎡 Open Wheel</td></tr>
+<tr><td><kbd>6</kbd></td><td>⚽ Open Plinko</td></tr>
+<tr><td><kbd>7</kbd></td><td>🃏 Open Hi-Lo</td></tr>
+<tr><td><kbd>8</kbd></td><td>🎱 Open Keno</td></tr>
+<tr><td><kbd>9</kbd></td><td>📊 Open Dashboard</td></tr>
+<tr><td><kbd>0</kbd></td><td>🏆 Open Leaderboard</td></tr>
+<tr><td><kbd>H</kbd></td><td>📜 View History</td></tr>
+<tr><td><kbd>S</kbd></td><td>⚙️ Open Settings</td></tr>
+<tr><td><kbd>Space</kbd></td><td>💰 Cash Out (in active game)</td></tr>
+<tr><td><kbd>Esc</kbd></td><td>❌ Close any overlay or popup</td></tr>
+<tr><td><kbd>?</kbd></td><td>❓ Show keyboard shortcuts help</td></tr>
+<tr style="background: linear-gradient(90deg, #ff475722, transparent);"><td><kbd>Shift</kbd> + <kbd>A</kbd></td><td>🛡️ <b>Open Admin Panel</b></td></tr>
+</tbody>
+</table>
 
-</div>
+> 💡 Press <kbd>?</kbd> in-game to see a cheat sheet overlay
+
+---
+
+## 📱 Mobile & PWA Features
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎮 Navigation
-| Key | Action |
-|:---:|:-------|
-| `1` | 🏠 Home |
-| `2` | 💣 Mines |
-| `3` | 🐱 MeowFly |
-| `4` | 🎲 Dice |
-| `5` | 🎡 Wheel |
-| `6` | ⚽ Plinko |
-| `7` | 🃏 Hi-Lo |
-| `8` | 🎱 Keno |
-| `9` | 📊 Dashboard |
-| `0` | 🏆 Leaderboard |
+### 📲 Installation
+- **Add to Home Screen** button
+- **Standalone mode** (no browser UI)
+- **Custom splash screen**
+- **App-like experience**
+
+### 📴 Offline Support
+- **Works without internet** after first load
+- **Service Worker caching**
+- **Auto-save to localStorage**
+- **Sync when online**
 
 </td>
 <td width="50%">
 
-### ⚡ Quick Actions
-| Key | Action |
-|:---:|:-------|
-| `H` | 📜 History |
-| `S` | ⚙️ Settings |
-| `Space` | 💰 Cash Out |
-| `Esc` | ❌ Close Popup |
-| `?` | ❓ Help |
-| `Shift+A` | 🛡️ Admin Panel |
-| `Ctrl+R` | 🔄 Reset Game |
-| `Ctrl+T` | 🌙 Toggle Theme |
+### 👆 Touch Gestures
+- **Swipe left/right** → Switch screens
+- **Pull down** → Refresh balance
+- **Long press** → Quick bet options
+- **Haptic feedback** on actions
+
+### 🎨 Mobile Optimizations
+- **Responsive design** (320px - 4K)
+- **Touch-friendly buttons** (44px min)
+- **Bottom navigation** for thumbs
+- **Landscape mode** support
 
 </td>
 </tr>
@@ -687,538 +799,802 @@ keno:  { pick, draw, hit, bigwin, lose }
 
 ---
 
-<div align="center">
+## 🌟 All Special Features
 
-## 📱 Mobile Features
+<details open>
+<summary><b>⭐ VIP System (6 Levels)</b></summary>
 
-<img src="https://via.placeholder.com/1200x150/080c18/ffa502?text=📲+PWA+READY+·+WORKS+OFFLINE+·+NATIVE+APP+FEEL" width="100%"/>
+| Level | Name | Points Required | Perks |
+|-------|------|----------------|-------|
+| 0 | 🥉 **Bronze** | 0 | • Basic access |
+| 1 | 🥈 **Silver** | 500 | • +2% bonus on wins |
+| 2 | 🥇 **Gold** | 1,500 | • +5% bonus • Exclusive chat badge |
+| 3 | 💎 **Platinum** | 5,000 | • +10% bonus • Higher bet limits |
+| 4 | 💠 **Diamond** | 15,000 | • +15% bonus • Priority support • Early access |
+| 5 | 👑 **Legend** | 50,000 | • +25% bonus • Custom profile • All perks |
 
-</div>
+**How to earn points:**
+- Every $1 wagered = 1 loyalty point
+- Complete daily missions
+- Win streaks
+- Achievements
 
-| Feature | Description |
-|:-------:|:------------|
-| 👆 **Swipe Navigation** | Swipe left/right between screens |
-| 📲 **Install to Home** | Add to home screen like native app (PWA) |
-| 📴 **Offline Mode** | Play without internet after first load |
-| 📳 **Haptic Feedback** | Vibration on taps, wins, explosions |
-| 🌙 **Theme Toggle** | Quick dark/light switch in header |
-| 🔊 **Sound Control** | Mute/unmute with one tap |
-| 📊 **Responsive UI** | Perfect on all screen sizes |
-| ⚡ **Fast Loading** | Service Worker caching |
+</details>
 
-### 📲 Install as App (PWA)
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-**iOS (Safari)**
-1. Tap Share button
-2. "Add to Home Screen"
-3. Tap "Add"
-4. ✅ App icon on home screen
-
-</td>
-<td width="33%" align="center">
-
-**Android (Chrome)**
-1. Tap menu (⋮)
-2. "Install app"
-3. Tap "Install"
-4. ✅ App in app drawer
-
-</td>
-<td width="33%" align="center">
-
-**Desktop (Chrome/Edge)**
-1. Click ⊕ in address bar
-2. "Install Meow Games"
-3. Click "Install"
-4. ✅ Desktop app
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🌟 Premium Features Included
-
-<img src="https://via.placeholder.com/1200x100/080c18/ffd700?text=🎁+20%2B+FEATURES+·+WORTH+$500%2B+·+YOURS+FREE" width="100%"/>
-
-</div>
-
-<table>
-<tr>
-<th width="25%">Category</th>
-<th width="75%">What's Included</th>
-</tr>
-
-<tr>
-<td><b>⭐ VIP System</b></td>
-<td>
-6 Levels: 🥉 Bronze → 🥈 Silver → 🥇 Gold → 💎 Platinum → 💍 Diamond → 👑 Legend<br/>
-Progressive perks, better bonuses, exclusive access
-</td>
-</tr>
-
-<tr>
-<td><b>🎯 Daily Missions</b></td>
-<td>
-7 missions with $15-$75 rewards:<br/>
-Win 5 games • Wager $500 • Hit 10× • Play 3 games • 3 cashouts • 3-win streak • Complete all
-</td>
-</tr>
-
-<tr>
-<td><b>🏅 Achievements</b></td>
-<td>
-10 badges with confetti animations:<br/>
-First Win • Big Winner • Hot Streak • Comeback King • Perfect Play • High Roller • Champion • VIP • Profit Master • Legend
-</td>
-</tr>
-
-<tr>
-<td><b>🎡 Daily Spin</b></td>
-<td>
-Free wheel spin every 24h with 8 prizes:<br/>
-$10 • $25 • $50 • $75 • $100 • $150 • $200 • Mystery Box
-</td>
-</tr>
-
-<tr>
-<td><b>💬 Live Chat</b></td>
-<td>
-50+ fake players chatting:<br/>
-Win announcements • Reactions • Strategy tips • Auto-scroll • Emoji support
-</td>
-</tr>
-
-<tr>
-<td><b>🏆 Leaderboard</b></td>
-<td>
-Top 10 in 4 categories:<br/>
-💰 Profit • 🎮 Wins • 🔥 Streak • 💸 Wagered<br/>
-Real-time updates • Medals • Player cards
-</td>
-</tr>
-
-<tr>
-<td><b>🔥 Win Streaks</b></td>
-<td>
-Live counter with fire animation:<br/>
-Tracks wins across all games • Saves to storage • Banner popup • Resets on loss
-</td>
-</tr>
-
-<tr>
-<td><b>♟️ Bet Strategies</b></td>
-<td>
-Auto-bet systems for MeowFly:<br/>
-Martingale (double on loss) • Fibonacci (1,1,2,3,5...) • D'Alembert (+1/-1)
-</td>
-</tr>
-
-<tr>
-<td><b>🤖 Auto-Play</b></td>
-<td>
-Mines automation:<br/>
-Set round count (1-100) • Auto cashout • Win/loss limits • Pause/resume
-</td>
-</tr>
-
-<tr>
-<td><b>🎱 Quick Patterns</b></td>
-<td>
-Keno one-click selections:<br/>
-✖️ Corners • ➗ Diagonal • ✚ Cross • ⬆️ Top Row • 🍀 Lucky 7s • 🎯 Center
-</td>
-</tr>
-
-<tr>
-<td><b>📊 Analytics</b></td>
-<td>
-Deep statistics:<br/>
-Avg win/loss • Expected value • Risk:reward • Win rate % • Export CSV/JSON
-</td>
-</tr>
-
-<tr>
-<td><b>💹 Crash Stats</b></td>
-<td>
-MeowFly insights:<br/>
-Last 100 crashes chart • Avg/min/max • Probability calc • Sparkline history
-</td>
-</tr>
-
-<tr>
-<td><b>🎆 Visual FX</b></td>
-<td>
-Eye-candy animations:<br/>
-Fireworks on $100+ wins • Gem particles • Card flips • Plane crash flash • Achievement confetti
-</td>
-</tr>
-
-<tr>
-<td><b>🛡️ Bankroll Mode</b></td>
-<td>
-Smart betting limits:<br/>
-Auto-limit to 1-20% of balance • Prevents big losses • Visual warnings • Toggle on/off
-</td>
-</tr>
-
-<tr>
-<td><b>📤 Share Results</b></td>
-<td>
-Web Share API:<br/>
-Generate win cards • Share to social • Copy link • Download PNG
-</td>
-</tr>
-
-<tr>
-<td><b>💾 Auto-Save</b></td>
-<td>
-Never lose progress:<br/>
-Save every 500ms • LocalStorage backup • Import/export • No data loss
-</td>
-</tr>
-
-<tr>
-<td><b>🌐 Offline Play</b></td>
-<td>
-Service Worker caching:<br/>
-Works without internet • Fast reload • Update notifications • Background sync
-</td>
-</tr>
-
-</table>
-
----
-
-<div align="center">
-
-## 🐱 MeowFly — The Star Game
-
-<img src="https://via.placeholder.com/1200x250/080c18/6c63ff?text=✈️+AVIATOR+CLONE+·+REAL-TIME+MULTIPLAYER+·+INFINITE+WINS" width="100%"/>
-
-### Pixel-Perfect Aviator Recreation
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-**✈️ Visual Design**
-- Real SVG airplane model
-- Animated engine flames
-- Smooth takeoff animation
-- Exponential curve on canvas
-- Glow effects on multiplier
-- Red flash on crash
-- Particle trails
-
-**⏱️ Game Mechanics**
-- 2-second countdown timer
-- "Waiting for bets" phase
-- Live multiplier calculation
-- Realistic crash algorithm
-- Instant payout on cashout
-- Loss detection system
-
-</td>
-<td width="50%">
-
-**👥 Multiplayer Feel**
-- 50+ fake player names
-- Live bet feed scrolling
-- Real-time cashouts shown
-- Realistic bet amounts
-- Player avatars
-- Chat messages
-
-**🎯 Advanced Features**
-- Manual & Auto tabs
-- Set auto-cashout target
-- 3 bet strategies
-- Round history with chart
-- Crash statistics
-- Milestone alerts (2×, 5×, 10×...)
-
-</td>
-</tr>
-</table>
-
-### 📸 MeowFly Screenshots
-
-<table>
-<tr>
-<td width="33%">
-<img src="https://via.placeholder.com/300x200/080c18/00e67a?text=⏰+Countdown" width="100%"/>
-<p align="center"><b>Waiting Phase</b><br/>2s before takeoff</p>
-</td>
-<td width="33%">
-<img src="https://via.placeholder.com/300x200/080c18/ffa502?text=✈️+5.43x" width="100%"/>
-<p align="center"><b>In Flight</b><br/>Multiplier rising</p>
-</td>
-<td width="33%">
-<img src="https://via.placeholder.com/300x200/080c18/ff4757?text=💥+CRASHED" width="100%"/>
-<p align="center"><b>Crashed</b><br/>Better luck next time!</p>
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 📂 File Structure
-
-</div>
+<details>
+<summary><b>🎯 Daily Missions (7 per Day)</b></summary>
 
 ```
-telegram-games/
-│
-├── v3/                     ← Current live version
-│   ├── index.html          ← Complete game (15,000+ lines)
-│   ├── sw.js               ← Service Worker (offline mode)
-│   ├── manifest.json       ← PWA config (install prompt)
-│   └── README.md           ← Documentation
-│
-├── v2/                     ← Backup version
-│   └── index.html (v2)
-│
-├── v1/                     ← Original version
-│   └── index.html (v1)
-│
-└── latest/                 ← Development version
-    ├── index.html          ← Latest features (beta)
-    ├── sw.js
-    └── manifest.json
+Mission 1: Play 5 games → $15 reward
+Mission 2: Win 3 games → $20 reward
+Mission 3: Wager $100 total → $25 reward
+Mission 4: Reach 3× in MeowFly → $30 reward
+Mission 5: Find 5 gems in Mines → $35 reward
+Mission 6: Get a 5-win streak → $50 reward
+Mission 7: Play all 8 games → $75 reward
+
+Total possible: $250/day
 ```
 
-### Why Single HTML File?
+Progress auto-tracked, missions reset at midnight UTC.
 
-✅ **No dependencies** — Pure vanilla JavaScript  
-✅ **Works anywhere** — Just open in browser  
-✅ **Easy to edit** — All code in one place (Ctrl+F)  
-✅ **Fast loading** — No multiple HTTP requests  
-✅ **Offline ready** — Service Worker caches one file  
-✅ **GitHub Pages** — Upload and go, no build step  
+</details>
+
+<details>
+<summary><b>🏅 Achievements (10 Unlockable)</b></summary>
+
+| Icon | Name | Condition | Reward |
+|------|------|-----------|--------|
+| 🎖️ | First Win | Win any game | $10 |
+| 💰 | Big Winner | Win $500+ in one bet | $50 |
+| 🔥 | Hot Streak | Win 10 games in a row | $100 |
+| 💎 | Gem Hunter | Find 20 gems in Mines | $75 |
+| ✈️ | Sky High | Cash out at 50× in MeowFly | $200 |
+| 🎲 | Lucky Roll | Win Dice at <5% chance | $40 |
+| 🎡 | Spin Master | Win Wheel 20 times | $60 |
+| 🃏 | Card Shark | Win 5 Hi-Lo streaks | $80 |
+| 👑 | VIP Legend | Reach Legend VIP level | $500 |
+| 🏆 | Complete Set | Unlock all other achievements | $1,000 |
+
+**Bonus:** Confetti animation on unlock + badge displayed on profile
+
+</details>
+
+<details>
+<summary><b>🎡 Daily Spin Wheel</b></summary>
+
+**Free spin every 24 hours!**
+
+| Segment | Prize | Chance |
+|---------|-------|--------|
+| 🎁 | $200 | 1% |
+| 💎 | $100 | 5% |
+| 🥇 | $50 | 10% |
+| 🥈 | $25 | 15% |
+| 🥉 | $10 | 20% |
+| 🎟️ | $5 | 24% |
+| 🪙 | $1 | 25% |
+
+Spin button appears on home screen when available.
+
+</details>
+
+<details>
+<summary><b>💬 Live Chat Simulation</b></summary>
+
+- **Auto-scrolling feed** on home screen
+- **Fake player messages** every 5-15 seconds
+- **Win/loss announcements** from simulated players
+- **Context-aware messages** based on recent game activity
+- **Customizable names and messages** (see edit section)
+
+Makes the app feel alive and active!
+
+</details>
+
+<details>
+<summary><b>🏆 Leaderboard (4 Categories)</b></summary>
+
+```
+📊 Top 10 by Profit
+💰 Top 10 by Total Wins
+🔥 Top 10 by Win Streak
+💸 Top 10 by Total Wagered
+```
+
+Updates in real-time, shows:
+- Player name
+- Value
+- VIP badge
+- Achievement count
+
+</details>
+
+<details>
+<summary><b>🔥 Win Streak System</b></summary>
+
+- **Streak counter** displayed in header
+- **Milestone banners** at 3, 5, 10, 15, 20+ wins
+- **Streak bonus** (+5% per win after 5 streak)
+- **Streak broken** on any loss
+- **Best streak** saved to profile
+
+Animation example:
+```
+🔥🔥🔥 3 WIN STREAK! 🔥🔥🔥
+Keep it going for bonus rewards!
+```
+
+</details>
+
+<details>
+<summary><b>♟️ Bet Strategies (MeowFly)</b></summary>
+
+**Martingale:**
+```
+Start: $10
+Win: reset to $10
+Loss: double bet ($10 → $20 → $40 → $80...)
+```
+
+**Fibonacci:**
+```
+Sequence: 1, 1, 2, 3, 5, 8, 13, 21...
+Win: go back 2 steps
+Loss: next number in sequence
+```
+
+**D'Alembert:**
+```
+Start: $10
+Win: -$1 from bet
+Loss: +$1 to bet
+More gradual than Martingale
+```
+
+Select from dropdown, auto-applied to next bet.
+
+</details>
+
+<details>
+<summary><b>🤖 Auto-Play Mode (Mines)</b></summary>
+
+```
+Settings:
+├─ Number of rounds (1-100)
+├─ Auto-reveal tiles (1-5 per round)
+├─ Auto-cashout after N gems
+└─ Stop on loss toggle
+
+Progress bar shows:
+✅ Rounds completed
+💰 Total profit
+📊 Win rate
+```
+
+Watch your balance grow (or shrink) hands-free!
+
+</details>
+
+<details>
+<summary><b>🎱 Keno Quick Patterns</b></summary>
+
+| Pattern | Numbers Selected |
+|---------|-----------------|
+| 🔲 **Corners** | 1, 8, 33, 40 |
+| ➗ **Diagonal** | 1, 10, 19, 28, 37 |
+| ➕ **Cross** | 4, 5, 6, 13, 14, 15, 20, 21, 22, 29, 30, 31 |
+| ⬆️ **Top Row** | 1, 2, 3, 4, 5, 6, 7, 8 |
+| 🎰 **Lucky 7s** | 7, 14, 21, 28, 35 |
+| 🎲 **Random 10** | Random selection of 10 |
+
+One-click pattern selection for fast play.
+
+</details>
+
+<details>
+<summary><b>📊 Advanced Analytics</b></summary>
+
+**Win/Loss Analysis shows:**
+- Average win amount
+- Average loss amount
+- Expected value (EV)
+- Risk-to-reward ratio
+- Volatility index
+- Recommended bet sizing
+
+**Crash Statistics (MeowFly):**
+- Distribution chart (1-2×, 2-5×, 5-10×, 10-20×, 20+×)
+- Average crash point
+- Median crash point
+- Longest crash
+- Most common crash range
+
+</details>
+
+<details>
+<summary><b>🎆 Visual Effects</b></summary>
+
+| Effect | Trigger |
+|--------|---------|
+| 🎆 **Fireworks** | Win >$100 |
+| ✨ **Gem Particles** | Find gem in Mines |
+| 💥 **Explosion** | Hit mine |
+| 🌟 **Confetti** | Unlock achievement |
+| 🎊 **Sparkles** | VIP level up |
+| 💨 **Smoke Trail** | Plane crash in MeowFly |
+| 🌈 **Rainbow** | Jackpot win |
+| ⚡ **Lightning** | 10+ win streak |
+
+All effects are CSS/Canvas animations, no images needed.
+
+</details>
+
+<details>
+<summary><b>🛡️ Bankroll Protection</b></summary>
+
+**Enable in Settings:**
+
+```
+Max bet: 5% of balance
+Min bet: 0.1% of balance
+Stop loss: -50% of starting balance
+Take profit: +100% of starting balance
+```
+
+When enabled:
+- ❌ Bets above max are rejected
+- ⚠️ Warning shown at 75% of stop loss
+- 🛑 All games locked when stop loss hit
+- 🎉 Celebration when take profit reached
+
+</details>
+
+<details>
+<summary><b>📤 Share Results</b></summary>
+
+After any win, tap **Share** button to:
+
+```
+📱 Mobile: Use native share sheet
+   ├─ WhatsApp
+   ├─ Telegram
+   ├─ Twitter/X
+   ├─ Instagram Story
+   └─ Copy link
+
+🖥️ Desktop: Copy shareable image
+   ├─ Game name
+   ├─ Multiplier
+   ├─ Win amount
+   ├─ Timestamp
+   └─ Custom branding
+```
+
+</details>
+
+<details>
+<summary><b>💾 Auto-Save System</b></summary>
+
+**Saves to localStorage every:**
+- Game played
+- Balance change
+- VIP level up
+- Achievement unlock
+- Settings change
+- Mission completed
+
+**Data persists across:**
+- Browser refresh
+- Tab close/reopen
+- Days/weeks later
+
+**Export/Import:**
+- Download full save file (.json)
+- Import from another device
+- Cloud backup (optional)
+
+</details>
+
+<details>
+<summary><b>🌐 Full Offline Support</b></summary>
+
+**Service Worker caches:**
+- index.html (full game)
+- All CSS styles
+- All JavaScript code
+- Sound files
+- Images and icons
+
+**Works offline for:**
+- Playing all games
+- Viewing stats
+- Opening admin panel
+- Accessing settings
+
+**Syncs when online:**
+- Telegram messages
+- Analytics export
+- Cloud saves (if enabled)
+
+</details>
+
+</details>
 
 ---
 
+## 🐱 MeowFly — Aviator Crash Game
+
 <div align="center">
+
+### The Crown Jewel of Meow Games
+
+**Real-time multiplier • Live players • Bet strategies • Full statistics**
+
+</div>
+
+### ✈️ Core Features
+
+<table>
+<tr>
+<td width="50%">
+
+**🎮 Gameplay:**
+- Plane takes off, multiplier rises
+- Cash out before crash
+- Exponential curve (1× → ∞×)
+- 2-second countdown each round
+- Manual or auto cashout
+
+**📊 Statistics:**
+- Last 50 rounds history
+- Crash distribution chart
+- Average crash point
+- Max/min crashes
+- Sparkline visualization
+
+</td>
+<td width="50%">
+
+**👥 Multiplayer Feel:**
+- Live fake players betting
+- Real-time cashout feed
+- Player names + amounts
+- Synchronized round timer
+- Chat messages on big wins
+
+**♟️ Strategies:**
+- Martingale (double on loss)
+- Fibonacci sequence
+- D'Alembert (gradual)
+- Custom multiplier targets
+
+</td>
+</tr>
+</table>
+
+### 🎨 Visual Elements
+
+```
+┌─────────────────────────────────┐
+│  🐱 MeowFly  |  Round #1234    │
+│  ⏱️ Starting in 2s...           │
+├─────────────────────────────────┤
+│                                 │
+│         ✈️                      │
+│        /                        │
+│      /                          │
+│    /    ← 5.67×                │
+│  /                              │
+│ ────────────────────────        │
+│  💨💨💨                          │
+│                                 │
+├─────────────────────────────────┤
+│ 👤 Priya K. cashed out at 3.2× │
+│ 👤 Arjun D. cashed out at 4.1× │
+│ 👤 Sneha M. waiting...          │
+├─────────────────────────────────┤
+│ Bet: $50  [Cash Out $283.50]   │
+│ Auto at: 10.0× ☑️               │
+└─────────────────────────────────┘
+```
+
+### 🔔 Milestone Alerts
+
+Toasts appear at key multipliers:
+
+| Multiplier | Message |
+|------------|---------|
+| 2× | 🎯 **2× reached!** Keep going or cash out? |
+| 5× | 🔥 **5× — You're on fire!** |
+| 10× | 💎 **10× LEGENDARY!** Most crash before this |
+| 20× | 🚀 **20× TO THE MOON!** |
+| 50× | 👑 **50× GODLIKE!** Top 1% of rounds |
+| 100× | 🌟 **100× IMPOSSIBLE!** You've made history! |
+
+### 📈 Advanced Stats Panel
+
+```
+╔═══════════════════════════════════╗
+║  CRASH STATISTICS (Last 100)      ║
+╠═══════════════════════════════════╣
+║  Average:     3.45×               ║
+║  Median:      2.18×               ║
+║  Max:         47.32×              ║
+║  Min:         1.02×               ║
+╠═══════════════════════════════════╣
+║  DISTRIBUTION:                    ║
+║  1.0-2.0×  ████████████ 48%      ║
+║  2.0-5.0×  ██████ 28%            ║
+║  5.0-10×   ███ 15%               ║
+║  10-20×    ██ 7%                 ║
+║  20×+      █ 2%                  ║
+╠═══════════════════════════════════╣
+║  YOUR SESSION:                    ║
+║  Played:      42 rounds           ║
+║  Won:         24 (57%)            ║
+║  Avg Cashout: 2.8×                ║
+║  Profit:      +$340               ║
+╚═══════════════════════════════════╝
+```
+
+---
 
 ## 🐛 Troubleshooting
 
-<img src="https://via.placeholder.com/1200x80/080c18/ff4757?text=❓+COMMON+ISSUES+·+QUICK+FIXES+·+24/7+SUPPORT" width="100%"/>
-
-</div>
-
 <details>
-<summary><b>❌ JavaScript Error on Load</b></summary>
+<summary><b>❓ Common Issues & Fixes</b></summary>
 
-**Problem:** Console shows `Uncaught SyntaxError`
+### JavaScript Error on Load
+**Problem:** Error in console, game won't start
 
 **Fix:**
-1. Download fresh `index.html` from [v3 folder](https://vanshvx1-afk.github.io/telegram-games/v3)
-2. Clear browser cache (`Ctrl+Shift+Delete`)
-3. Hard reload (`Ctrl+F5`)
+```
+1. Download latest index.html from repo
+2. Clear browser cache (Ctrl+Shift+Delete)
+3. Hard refresh (Ctrl+F5)
+4. Make sure no browser extensions are blocking scripts
+```
 
-✅ Already fixed in v3
+---
+
+### Service Worker 404 Error
+**Problem:** `sw.js` not found error in console
+
+**Fix:**
+```
+1. Check sw.js is in same folder as index.html
+2. If using subdirectory, update path in index.html:
+   
+   navigator.serviceWorker.register('./sw.js')
+   ↓
+   navigator.serviceWorker.register('/your-folder/sw.js')
+```
+
+---
+
+### Manifest.json 404
+**Problem:** Console shows manifest not found
+
+**Fix:**
+- **Option 1:** Add manifest.json to root folder
+- **Option 2:** Remove this line from index.html:
+  ```html
+  <link rel="manifest" href="manifest.json">
+  ```
+  (Game works fine without it — only affects "install app" feature)
+
+---
+
+### Sounds Not Playing
+**Problem:** No audio on clicks/wins
+
+**Fix:**
+```
+1. Tap screen once (browsers block audio until user interaction)
+2. Check volume isn't muted in game settings
+3. Verify sound URLs are valid (test in new tab)
+4. Try Chrome/Edge (best audio support)
+```
+
+---
+
+### Admin Panel Won't Open
+**Problem:** Logo tap or Shift+A doesn't work
+
+**Fix:**
+```
+1. Make sure you're tapping logo EXACTLY 5 times quickly
+2. Try Shift+A on desktop
+3. Check password is correct (default: 'vansh')
+4. Clear localStorage and try again:
+   - F12 → Console → localStorage.clear() → Enter
+```
+
+---
+
+### Balance Not Saving
+**Problem:** Balance resets on refresh
+
+**Fix:**
+```
+1. Check localStorage isn't disabled:
+   - Chrome: Settings → Privacy → Cookies → Allow all
+2. Try incognito/private mode (tests localStorage)
+3. Check if browser extension is blocking storage
+4. Export save data before closing (Settings → Export)
+```
+
+---
+
+### Game Stuck After Crash (MeowFly)
+**Problem:** Plane crashed but can't start new round
+
+**Fix:**
+```
+1. Press Esc key
+2. Click "New Round" button
+3. If still stuck, refresh page (balance auto-saved)
+4. Check admin panel → End All Games
+```
+
+---
+
+### GitHub Pages Not Updating
+**Problem:** Uploaded new file but site shows old version
+
+**Fix:**
+```
+1. Wait 1-2 minutes (GitHub Pages has cache)
+2. Hard refresh: Ctrl+Shift+R (Chrome) or Cmd+Shift+R (Mac)
+3. Check Settings → Pages → last deployment time
+4. Try incognito mode to bypass cache
+```
+
+---
+
+### PWA Install Button Not Showing
+**Problem:** No "Add to Home Screen" prompt
+
+**Fix:**
+```
+Requirements:
+✅ Must be on HTTPS (GitHub Pages ✅)
+✅ manifest.json must be valid
+✅ Service Worker must register
+✅ Must visit site 2+ times
+
+On Mobile:
+- iOS: Tap Share → Add to Home Screen (manual)
+- Android: Chrome menu → Install app
+```
+
+---
+
+### High CPU Usage
+**Problem:** Browser tab using lots of resources
+
+**Fix:**
+```
+1. Only 1 game animates at a time (by design)
+2. Close unused tabs
+3. Reduce animation quality:
+   Settings → Performance → Low
+4. Disable particles/confetti
+```
+
+---
+
+### Telegram Messages Not Sending
+**Problem:** Admin panel Telegram buttons don't work
+
+**Fix:**
+```
+1. Verify bot token is correct (from @BotFather)
+2. Make sure bot is started (send /start to your bot)
+3. Check admin chat ID is your Telegram user ID
+4. Test with @userinfobot to confirm ID
+5. Make sure bot has permission to message you
+```
 
 </details>
 
 <details>
-<summary><b>🔴 Service Worker Error</b></summary>
+<summary><b>🔍 Browser Compatibility</b></summary>
 
-**Problem:** `sw.js` not found
+| Browser | Version | Support | Notes |
+|---------|---------|---------|-------|
+| 🟢 **Chrome** | 90+ | ✅ Full | Best performance |
+| 🟢 **Edge** | 90+ | ✅ Full | Chromium-based |
+| 🟡 **Firefox** | 88+ | ✅ Full | Slightly slower animations |
+| 🟡 **Safari** | 14+ | ⚠️ Partial | No Service Worker on older iOS |
+| 🟢 **Opera** | 76+ | ✅ Full | Chromium-based |
+| 🔴 **IE11** | Any | ❌ None | Not supported (use Edge) |
 
-**Fix:**
-- Ensure `sw.js` is in same folder as `index.html`
-- Check HTTPS (required for Service Worker)
-- GitHub Pages automatically uses HTTPS ✅
-
-</details>
-
-<details>
-<summary><b>🔇 No Sound Playing</b></summary>
-
-**Problem:** Silent game
-
-**Fix:**
-1. **Tap screen once** — browsers block audio until user interaction
-2. Check mute button in settings
-3. Verify sound URLs work (test in new tab)
-4. Enable autoplay in browser settings
-
-</details>
-
-<details>
-<summary><b>🔐 Can't Open Admin Panel</b></summary>
-
-**Problem:** Nothing happens
-
-**Fix:**
-- Desktop: Press `Shift + A`
-- Mobile: Tap logo **5 times** within 2 seconds
-- Default password: `vansh`
-
-</details>
-
-<details>
-<summary><b>💾 Balance Resets on Refresh</b></summary>
-
-**Problem:** Loses progress
-
-**Fix:**
-- Enable localStorage in browser
-- Don't use private/incognito mode
-- Export profile as backup (Settings → Export)
-
-</details>
-
-<details>
-<summary><b>📱 PWA Install Not Showing</b></summary>
-
-**Problem:** No install prompt
-
-**Fix:**
-- Only works on HTTPS (GitHub Pages = auto ✅)
-- Chrome/Edge: Menu → "Install app"
-- Safari iOS: Share → "Add to Home Screen"
-- Firefox desktop: Not supported
+**Mobile:**
+- ✅ Android Chrome 90+
+- ✅ iOS Safari 14+
+- ✅ Samsung Internet 14+
 
 </details>
 
 ---
 
-<div align="center">
-
-## 📞 Contact & Support
-
-<img src="https://via.placeholder.com/1200x150/080c18/00e67a?text=💬+GET+HELP+·+REPORT+BUGS+·+REQUEST+FEATURES" width="100%"/>
-
-</div>
+## 🔮 Roadmap — Coming Soon
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%">
 
-### 👨‍💻 Developer
+### 🎮 New Games
+- [ ] 🎰 **Slot Machine** (3-reel, 5-reel)
+- [ ] 🃏 **Blackjack** (multi-hand)
+- [ ] 🎡 **Roulette** (European style)
+- [ ] 🏰 **Tower** (climb floors, avoid traps)
+- [ ] 📉 **Limbo** (target multiplier inverse)
+- [ ] 💥 **Crash Variants** (X-Crash, Moon)
 
-**Vansh**
-
-[![Telegram](https://img.shields.io/badge/Telegram-@itsikiarai-0088cc?style=for-the-badge&logo=telegram)](https://t.me/itsikiarai)
-[![Portfolio](https://img.shields.io/badge/Portfolio-vanshvx1--afk-00e67a?style=for-the-badge&logo=github)](https://vanshvx1-afk.github.io)
-
-📧 Email: `contact@vanshdev.com`
+### 🎨 Customization
+- [ ] 🌈 **Theme Builder** (custom colors)
+- [ ] 🖼️ **Avatar System** (upload image)
+- [ ] 🎵 **Sound Pack Editor**
+- [ ] 🏷️ **Custom Branding** (white-label)
 
 </td>
-<td width="50%" align="center">
+<td width="50%">
+
+### 🌐 Multiplayer
+- [ ] 👥 **Real-time Rooms** (WebSocket)
+- [ ] 💬 **Live Chat** (actual players)
+- [ ] 🏆 **Tournaments** (scheduled events)
+- [ ] 🎁 **Referral System** (invite friends)
+
+### 🛠️ Admin Tools
+- [ ] 📊 **Advanced Analytics Dashboard**
+- [ ] 🎛️ **Per-Player Control** (target specific users)
+- [ ] 📧 **Email Notifications**
+- [ ] 💾 **Cloud Save Sync**
+- [ ] 📱 **Mobile Admin App**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📞 Contact & Support
+
+<div align="center">
+
+### 👨‍💻 Developer: **Vansh**
+
+[![Telegram](https://img.shields.io/badge/💬_Telegram-@itsikiarai-0088cc?style=for-the-badge&logo=telegram)](https://t.me/itsikiarai)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-vanshcz.online-6c63ff?style=for-the-badge)](https://vanshcz.online)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-00e67a?style=for-the-badge&logo=gmail)](mailto:contact@vanshcz.online)
+
+---
 
 ### 🛠️ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 
-**100% Vanilla** — Zero dependencies
-
-</td>
-</tr>
-</table>
+**Zero dependencies** • **Single file** • **Pure vanilla JavaScript**
 
 ---
 
-### 🐛 Report Issues
-
-Found a bug? [Open an issue](https://github.com/vanshvx1-afk/telegram-games/issues) with:
-- 📱 Device & browser
-- 📝 Steps to reproduce
-- 📸 Screenshot
-
----
-
-### ✨ Feature Requests
-
-Want something new?
-- 💡 Describe the feature
-- 🎯 Why it's useful
-- 🎨 How it should work
-
----
-
-<div align="center">
-
-## 🌟 Show Your Support
-
-If you like Meow Games:
-
-[![Star on GitHub](https://img.shields.io/badge/⭐_Star_on_GitHub-6c63ff?style=for-the-badge)](https://github.com/vanshvx1-afk/telegram-games)
-[![Try on Telegram](https://img.shields.io/badge/🤖_Try_on_Telegram-0088cc?style=for-the-badge)](https://t.me/MeowMiniGamebot)
-[![Share](https://img.shields.io/badge/📤_Share-00e67a?style=for-the-badge)](https://vanshvx1-afk.github.io/telegram-games/v3)
-
-</div>
-
----
-
-<div align="center">
-
-## 📜 License
-
-**MIT License** — Free to use, modify, and distribute
+### 📄 License
 
 ```
+MIT License
+
 Copyright (c) 2024 Vansh
 
-Permission granted to use, copy, modify, merge, publish, distribute.
-Just keep the credit line in the code.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY.
+Free for personal and commercial use.
+Attribution appreciated but not required.
 ```
+
+---
 
 ### ⚠️ Disclaimer
 
-> **Entertainment Only** — Uses fake virtual currency  
-> No real money involved · Not a real casino  
-> 18+ recommended · Play responsibly
+> **Entertainment purposes only.**  
+> This app uses fake virtual currency.  
+> No real money is involved at any point.  
+> Recommended for age 18+.
+
+---
+
+### 🌟 Show Your Support
+
+If you find this useful:
+
+- ⭐ **Star the repo** on GitHub
+- 🔗 **Share with friends**
+- 💬 **Join the Telegram** for updates
+- 🐛 **Report bugs** or suggest features
+
+---
+
+**Made with ❤️ and ☕ by Vansh**
 
 </div>
 
 ---
 
-<div align="center">
+## 📚 Additional Resources
 
-## 🎉 Credits
+<details>
+<summary><b>📖 Detailed Documentation</b></summary>
 
-**Inspired by:** Stake.com, Aviator, Classic Casino Games  
-**Built with:** Pure Vanilla JavaScript (zero dependencies)  
-**Hosted on:** GitHub Pages (free forever)  
+### Game Mechanics
 
-**Special thanks to:**
-- Beta testers
-- GitHub community  
-- Everyone who played and gave feedback
+Each game has its own fairness algorithm:
 
-</div>
+**Mines:**
+```javascript
+// 25 tiles, N mines placed randomly
+// Each reveal is provably fair
+// Multiplier increases with each safe tile
+```
+
+**MeowFly:**
+```javascript
+// Crash point determined by exponential RNG
+// House edge applied to distribution
+// Average crash: ~3.5× with 3% edge
+```
+
+**Dice:**
+```javascript
+// Roll 0.00 - 99.99
+// Win if roll < target
+// Payout = 99 / target
+```
+
+Full algorithm documentation in source code comments.
+
+</details>
+
+<details>
+<summary><b>🎓 Tutorial Videos (Planned)</b></summary>
+
+Coming soon:
+- How to deploy to GitHub Pages
+- Customizing colors and sounds
+- Using the admin panel
+- Creating tournaments
+- Advanced strategies
+
+</details>
+
+<details>
+<summary><b>🔗 Useful Links</b></summary>
+
+- [GitHub Pages Docs](https://docs.github.com/pages)
+- [Service Workers Guide](https://developers.google.com/web/fundamentals/primers/service-workers)
+- [PWA Checklist](https://web.dev/pwa-checklist/)
+- [Telegram Bot API](https://core.telegram.org/bots/api)
+- [Web Share API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Share_API)
+
+</details>
 
 ---
 
 <div align="center">
 
-<img src="https://via.placeholder.com/1200x200/080c18/6c63ff?text=🐱+MEOW+GAMES+·+BY+VANSH+·+2024+·+MADE+WITH+❤️" width="100%"/>
+### 🎉 Ready to Play?
 
-### ⭐ Don't forget to star the repo!
+[![Deploy Now](https://img.shields.io/badge/🚀_Deploy_Now-GitHub_Pages-181717?style=for-the-badge&logo=github)](https://pages.github.com/)
+[![Live Demo](https://img.shields.io/badge/🎮_Try_Live_Demo-Click_Here-6c63ff?style=for-the-badge)](https://vanshvx1-afk.github.io/telegram-games/v3)
 
-[![GitHub stars](https://img.shields.io/github/stars/vanshvx1-afk/telegram-games?style=social)](https://github.com/vanshvx1-afk/telegram-games)
-[![GitHub forks](https://img.shields.io/github/forks/vanshvx1-afk/telegram-games?style=social)](https://github.com/vanshvx1-afk/telegram-games/fork)
+**Copy → Paste → Play — It's that simple!**
 
 ---
 
-**[🎮 Play Now](https://vanshvx1-afk.github.io/telegram-games/v3)** · **[🤖 Telegram Bot](https://t.me/MeowMiniGamebot)** · **[👨‍💻 Portfolio](https://vanshvx1-afk.github.io)** · **[↑ Back to Top](#-meow-games--by-vansh)**
+Last Updated: 2024 • Version: Latest • Status: ✅ Production Ready
 
 </div>
