@@ -1,0 +1,22 @@
+{
+  "name": "Meow Games",
+  "short_name": "MeowGames",
+  "description": "Premium Casino Games by Vansh",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#080c18",
+  "theme_color": "#6c63ff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/JFqyY0BN/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/JFqyY0BN/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
