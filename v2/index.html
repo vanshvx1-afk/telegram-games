@@ -2969,6 +2969,113 @@ button, div { outline: none; }
   0%, 100% { transform: scale(1); }
   50% { transform: scale(1.02); }
 }
+
+/* ============================================================
+   LIGHT THEME
+   ============================================================ */
+[data-theme="light"] {
+  --pri: #5147e8; --pri2: #6c63ff; --pri3: #3d36cc; --pri-glow: rgba(81,71,232,0.22);
+  --bg: #f0f2ff; --bg2: #e8ebfc; --bg3: #dde1f8; --bg4: #cdd3f5;
+  --surface: rgba(81,71,232,0.05); --surface2: rgba(81,71,232,0.08); --surface3: rgba(81,71,232,0.12);
+  --card: rgba(255,255,255,0.92); --card2: rgba(255,255,255,0.98); --card-brd: rgba(81,71,232,0.14);
+  --suc: #00a85a; --suc2: #007d42; --suc-glow: rgba(0,168,90,0.22);
+  --dan: #e02020; --dan2: #b01010; --dan-glow: rgba(224,32,32,0.22);
+  --warn: #d97706; --warn2: #b45309; --warn-glow: rgba(217,119,6,0.22);
+  --gold: #c77c00; --gold2: #a85f00;
+  --t1: #0d1117; --t2: #2d3555; --t3: #6270a0; --t4: #a0aac8;
+  --brd: rgba(81,71,232,0.14); --brd2: rgba(0,0,0,0.08);
+  --shd: 0 8px 32px rgba(81,71,232,0.12); --shd2: 0 4px 16px rgba(0,0,0,0.07); --shd3: 0 20px 60px rgba(81,71,232,0.18);
+}
+[data-theme="light"] body { background: var(--bg); color: var(--t1); }
+[data-theme="light"] body::before { background: radial-gradient(ellipse 60% 40% at 20% 20%, rgba(81,71,232,0.07) 0%, transparent 60%), radial-gradient(ellipse 40% 30% at 80% 80%, rgba(0,168,90,0.05) 0%, transparent 50%); }
+[data-theme="light"] .hdr { background: rgba(240,242,255,0.97); border-bottom-color: rgba(81,71,232,0.1); }
+[data-theme="light"] .hdr::after { background: linear-gradient(90deg,transparent,rgba(81,71,232,0.25),transparent); }
+[data-theme="light"] .hdr-ico { background: rgba(255,255,255,0.85); border-color: rgba(0,0,0,0.08); }
+[data-theme="light"] .hdr-pill { background: rgba(0,168,90,0.08); border-color: rgba(0,168,90,0.2); }
+[data-theme="light"] .bal-card-inner { background: linear-gradient(145deg,#4a42e8 0%,#3d36cc 35%,#5147e8 65%,#6c63ff 100%); }
+[data-theme="light"] #loadScr { background: var(--bg); }
+[data-theme="light"] .nav { background: rgba(240,242,255,0.97); border-top-color: rgba(81,71,232,0.1); }
+[data-theme="light"] .nav::before { background: linear-gradient(90deg,transparent,rgba(81,71,232,0.3),transparent); }
+[data-theme="light"] .nav-item { color: #a0aac8; }
+[data-theme="light"] .nav-item.on { color: var(--pri); }
+[data-theme="light"] .game-card { background: rgba(255,255,255,0.88); border-color: rgba(81,71,232,0.1); box-shadow: 0 4px 20px rgba(81,71,232,0.07); }
+[data-theme="light"] .cfg-card { background: rgba(255,255,255,0.9); border-color: rgba(81,71,232,0.1); }
+[data-theme="light"] .preset { background: rgba(240,242,255,0.9); border-color: rgba(81,71,232,0.14); color: var(--t3); }
+[data-theme="light"] .bet-box { background: rgba(240,242,255,0.9); border-color: rgba(81,71,232,0.14); }
+[data-theme="light"] .step-btn { background: rgba(240,242,255,0.9); border-color: rgba(0,0,0,0.08); }
+[data-theme="light"] .win-box, [data-theme="light"] .gate-box { background: rgba(255,255,255,0.98); border-color: rgba(81,71,232,0.12); }
+[data-theme="light"] .gate-inp { background: rgba(240,242,255,0.9); border-color: rgba(81,71,232,0.14); color: var(--t1); }
+[data-theme="light"] .sheet-body { background: rgba(255,255,255,0.98); border-color: rgba(81,71,232,0.1); }
+[data-theme="light"] .set-row { border-bottom-color: rgba(0,0,0,0.05); }
+[data-theme="light"] .info-bar { background: rgba(255,255,255,0.9); border-color: rgba(81,71,232,0.1); }
+[data-theme="light"] .mines-grid { background: rgba(255,255,255,0.9); border-color: rgba(81,71,232,0.1); }
+[data-theme="light"] .mine-tile { background: linear-gradient(145deg,#eef0ff,#f5f6ff); border-color: rgba(81,71,232,0.12); }
+[data-theme="light"] .mine-tile:hover:not(.rev):not(.dis) { border-color: var(--pri); box-shadow: 0 0 0 3px rgba(81,71,232,0.1); background: linear-gradient(145deg,#e8ebff,#eef0ff); }
+[data-theme="light"] .mine-tile.gem { background: linear-gradient(145deg,rgba(0,168,90,0.1),rgba(0,120,64,0.04)); border-color: rgba(0,168,90,0.35); }
+[data-theme="light"] .mine-tile.bomb { background: linear-gradient(145deg,rgba(224,32,32,0.14),rgba(176,16,16,0.04)); border-color: rgba(224,32,32,0.4); }
+[data-theme="light"] .mine-tile.bomb-muted { background: rgba(224,32,32,0.04); border-color: rgba(224,32,32,0.1); }
+[data-theme="light"] .dice-display { background: rgba(255,255,255,0.92); border-color: rgba(81,71,232,0.14); }
+[data-theme="light"] .wheel-center { background: var(--bg); border-color: var(--pri); color: var(--pri); }
+[data-theme="light"] .hilo-card { background: rgba(255,255,255,0.92); border-color: rgba(81,71,232,0.14); }
+[data-theme="light"] .hilo-card.red { background: linear-gradient(145deg,rgba(224,32,32,0.06),rgba(255,255,255,0.92)); }
+[data-theme="light"] .hilo-btn.hi { background: rgba(0,168,90,0.06); border-color: rgba(0,168,90,0.3); }
+[data-theme="light"] .hilo-btn.lo { background: rgba(224,32,32,0.05); border-color: rgba(224,32,32,0.3); }
+[data-theme="light"] .hilo-btn.jo { background: rgba(217,119,6,0.06); border-color: rgba(217,119,6,0.3); }
+[data-theme="light"] .keno-grid { background: rgba(255,255,255,0.9); border-color: rgba(81,71,232,0.1); }
+[data-theme="light"] .keno-ball { background: rgba(240,242,255,0.9); border-color: rgba(81,71,232,0.14); color: var(--t2); }
+[data-theme="light"] .dash-card { background: rgba(255,255,255,0.9); border-color: rgba(81,71,232,0.1); box-shadow: 0 4px 16px rgba(81,71,232,0.06); }
+[data-theme="light"] .activity-chart { background: rgba(240,242,255,0.8); }
+[data-theme="light"] .lb-item, [data-theme="light"] .hist-item { background: rgba(255,255,255,0.9); border-color: rgba(81,71,232,0.1); }
+[data-theme="light"] .lb-item.me { background: rgba(81,71,232,0.04); }
+[data-theme="light"] .lbtab, [data-theme="light"] .hf-btn { background: rgba(255,255,255,0.85); border-color: rgba(81,71,232,0.12); color: var(--t3); }
+[data-theme="light"] .lbtab.on, [data-theme="light"] .hf-btn.on { background: rgba(81,71,232,0.07); border-color: var(--pri); color: var(--pri); }
+[data-theme="light"] .user-profile-card { background: rgba(255,255,255,0.92); border-color: rgba(81,71,232,0.1); }
+[data-theme="light"] .adm-section, [data-theme="light"] .as-card { background: rgba(255,255,255,0.9); border-color: rgba(81,71,232,0.1); }
+[data-theme="light"] .adm-btn { background: rgba(240,242,255,0.9); border-color: rgba(81,71,232,0.12); color: var(--t2); }
+[data-theme="light"] .adm-btn.g { background: rgba(0,168,90,0.05); border-color: rgba(0,168,90,0.25); color: var(--suc2); }
+[data-theme="light"] .adm-btn.r { background: rgba(224,32,32,0.05); border-color: rgba(224,32,32,0.22); color: var(--dan2); }
+[data-theme="light"] .adm-btn.a { background: rgba(217,119,6,0.05); border-color: rgba(217,119,6,0.22); color: var(--warn2); }
+[data-theme="light"] .adm-btn.b { background: rgba(81,71,232,0.05); border-color: rgba(81,71,232,0.2); color: var(--pri3); }
+[data-theme="light"] .adm-btn.p { background: rgba(139,92,246,0.05); border-color: rgba(139,92,246,0.2); color: #7c3aed; }
+[data-theme="light"] .tab { background: rgba(255,255,255,0.85); border-color: rgba(81,71,232,0.12); color: var(--t3); }
+[data-theme="light"] .tab.on { background: rgba(81,71,232,0.07); border-color: var(--pri); color: var(--pri); }
+[data-theme="light"] .log-item { background: rgba(240,242,255,0.8); color: var(--t2); }
+[data-theme="light"] .force-bar.none { background: rgba(240,242,255,0.8); border-color: rgba(81,71,232,0.12); }
+[data-theme="light"] .adm-row { border-bottom-color: rgba(0,0,0,0.05); }
+[data-theme="light"] .rig-inp { background: rgba(240,242,255,0.9); border-color: rgba(81,71,232,0.14); color: var(--t1); }
+[data-theme="light"] .apply-btn { background: rgba(240,242,255,0.9); border-color: rgba(81,71,232,0.12); color: var(--t2); }
+[data-theme="light"] .tst.s { background: rgba(0,168,90,0.08); border-color: rgba(0,168,90,0.25); }
+[data-theme="light"] .tst.e { background: rgba(224,32,32,0.07); border-color: rgba(224,32,32,0.22); }
+[data-theme="light"] .tst.i { background: rgba(81,71,232,0.07); border-color: rgba(81,71,232,0.2); }
+[data-theme="light"] .tst.w { background: rgba(217,119,6,0.07); border-color: rgba(217,119,6,0.22); }
+[data-theme="light"] .rc-chip.high { background: rgba(0,168,90,0.09); border-color: rgba(0,168,90,0.22); }
+[data-theme="light"] .rc-chip.mid { background: rgba(81,71,232,0.09); border-color: rgba(81,71,232,0.2); }
+[data-theme="light"] .rc-chip.low { background: rgba(224,32,32,0.07); border-color: rgba(224,32,32,0.18); }
+[data-theme="light"] .crash-info-bar { background: rgba(255,255,255,0.9); border-color: rgba(81,71,232,0.1); }
+[data-theme="light"] .streak-banner { background: rgba(217,119,6,0.07); border-color: rgba(217,119,6,0.18); }
+[data-theme="light"] ::-webkit-scrollbar-thumb { background: rgba(81,71,232,0.2); }
+[data-theme="light"] .back-btn { background: rgba(255,255,255,0.9); border-color: rgba(0,0,0,0.08); }
+[data-theme="light"] .g-status { background: rgba(240,242,255,0.9); border-color: rgba(81,71,232,0.12); }
+[data-theme="light"] .g-status.active { background: rgba(0,168,90,0.08); border-color: rgba(0,168,90,0.25); }
+[data-theme="light"] .fly-bet-chip { background: rgba(81,71,232,0.05); border-color: rgba(81,71,232,0.12); }
+[data-theme="light"] .mm-cell.safe { background: rgba(0,168,90,0.04); border-color: rgba(0,168,90,0.14); }
+[data-theme="light"] .mm-cell.mine { background: rgba(224,32,32,0.06); border-color: rgba(224,32,32,0.2); }
+[data-theme="light"] .mm-cell.found { background: rgba(0,168,90,0.14); border-color: rgba(0,168,90,0.35); }
+[data-theme="light"] .win-btn.secondary { background: rgba(240,242,255,0.9); border-color: rgba(0,0,0,0.08); color: var(--t2); }
+[data-theme="light"] .section-hd { color: var(--t2); }
+[data-theme="light"] .auto-inp { background: rgba(240,242,255,0.9); border-color: rgba(81,71,232,0.14); color: var(--t1); }
+[data-theme="light"] .bet-inp { color: var(--t1); }
+[data-theme="light"] .toggle { background: rgba(81,71,232,0.1); }
+
+/* Theme toggle button */
+.theme-toggle-btn {
+  width:38px; height:38px; border-radius:var(--r2);
+  border:1px solid var(--brd2); background:var(--surface);
+  display:flex; align-items:center; justify-content:center;
+  font-size:17px; cursor:pointer; transition:all 0.2s;
+  backdrop-filter:blur(8px); flex-shrink:0;
+}
+.theme-toggle-btn:active { transform:scale(0.88); }
 </style>
 </head>
 <body>
@@ -3079,9 +3186,16 @@ button, div { outline: none; }
       </div>
       <div class="toggle on" id="animToggle" onclick="App.togAnim()"></div>
     </div>
+    <div class="set-row">
+      <div>
+        <div class="set-name">🌙 Dark Mode</div>
+        <div class="set-desc">Toggle dark / light theme</div>
+      </div>
+      <div class="toggle on" id="darkToggle" onclick="ThemeManager.toggle()"></div>
+    </div>
     <div class="set-row" style="border:none">
       <div>
-        <div class="set-name">🌙 Live Players</div>
+        <div class="set-name">👥 Live Players</div>
         <div class="set-desc">Show simulated live player activity</div>
       </div>
       <div class="toggle on" id="liveToggle" onclick="App.togLive()"></div>
@@ -3120,6 +3234,7 @@ button, div { outline: none; }
         <div class="hdr-dot"></div>
         <span class="hdr-cnt" id="onlineCount">0</span>
       </div>
+      <div class="theme-toggle-btn" id="themeToggleBtn" onclick="ThemeManager.toggle()" title="Toggle Light/Dark">🌙</div>
       <div class="hdr-ico" onclick="App.openSettings()">⚙️</div>
     </div>
   </div>
@@ -8786,8 +8901,100 @@ window.addEventListener('load', () => {
 });
 
 /* ============================================================
+   THEME MANAGER — Light / Dark toggle
+   Persists to localStorage. Accessible from:
+     - Header moon button
+     - Settings sheet toggle
+     - ThemeManager.setDark() / ThemeManager.setLight()
+     - ThemeManager.toggle()
+   ============================================================ */
+const ThemeManager = {
+  DARK:  'dark',
+  LIGHT: 'light',
+  KEY:   'mg_theme',
+
+  /* Current mode */
+  isDark: true,
+
+  init() {
+    /* Restore saved preference, else use OS preference */
+    const saved = localStorage.getItem(this.KEY);
+    if (saved) {
+      this.isDark = saved === 'dark';
+    } else {
+      this.isDark = !window.matchMedia('(prefers-color-scheme: light)').matches;
+    }
+    this.apply(false);
+
+    /* Listen for OS theme changes */
+    window.matchMedia('(prefers-color-scheme: light)').addEventListener('change', e => {
+      if (!localStorage.getItem(this.KEY)) {
+        this.isDark = !e.matches;
+        this.apply(true);
+      }
+    });
+  },
+
+  toggle() {
+    this.isDark = !this.isDark;
+    this.apply(true);
+    App.hap();
+  },
+
+  setDark()  { this.isDark = true;  this.apply(true); },
+  setLight() { this.isDark = false; this.apply(true); },
+
+  apply(animate) {
+    const root = document.documentElement;
+
+    if (animate) {
+      /* Smooth crossfade */
+      root.style.transition = 'background 0.35s ease, color 0.35s ease';
+      setTimeout(() => root.style.transition = '', 400);
+    }
+
+    if (this.isDark) {
+      root.removeAttribute('data-theme');
+    } else {
+      root.setAttribute('data-theme', 'light');
+    }
+
+    /* Sync all UI controls */
+    this.syncUI();
+
+    /* Persist */
+    localStorage.setItem(this.KEY, this.isDark ? 'dark' : 'light');
+
+    /* Update meta theme-color for browser chrome */
+    const metaTheme = document.querySelector('meta[name="theme-color"]');
+    if (metaTheme) metaTheme.content = this.isDark ? '#0a0e1a' : '#f0f2ff';
+  },
+
+  syncUI() {
+    /* Header button icon */
+    const btn = document.getElementById('themeToggleBtn');
+    if (btn) btn.textContent = this.isDark ? '🌙' : '☀️';
+
+    /* Settings sheet toggle */
+    const tog = document.getElementById('darkToggle');
+    if (tog) tog.classList.toggle('on', this.isDark);
+
+    /* Apple status bar */
+    const appleBar = document.querySelector('meta[name="apple-mobile-web-app-status-bar-style"]');
+    if (appleBar) appleBar.content = this.isDark ? 'black-translucent' : 'default';
+  }
+};
+
+/* Auto-init ThemeManager after App.init() */
+const _origAppInit = App.init.bind(App);
+App.init = async function() {
+  await _origAppInit();
+  ThemeManager.init();
+};
+
+/* ============================================================
    END OF PART 4
-   Total: ~7900+ lines across all 4 parts
+   Total: ~9000+ lines · All parts merged · GitHub ready
    ============================================================ */
 
 </script>
